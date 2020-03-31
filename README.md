@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Mikä koodaripula.com?
 
-You can use the [editor on GitHub](https://github.com/Eeko/koodaripula.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Koodaripula.com on itsenäinen tutkimusprojekti, jonka tarkoituksena on luoda parempaa ymmärrystä Suomen IT-työmarkkinoiden nykytilasta ja löytää konkreettisia keinoja sen kehittämiseksi. Sivusto on ainakin alkuun rakennettu maaliskuussa 2020 kerätystä pienimuotoisesta kyselytutkimuksesta saadun aineiston ja siitä nousevien huomioiden varaan, mutta voi myös laajeta tulevaisuudessa aina siihen asti, kunnes asia lakkaa minua riivaamasta.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## What is koodaripula.com?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Koodaripula.com is an independent research project for developing better knowledge on the state of Finnish ICT employment market and for finding real world solutions for improvement. The site is initially built around a small survey executed in March 2020 and it's findings. However, it might see further development and articles in the future until I feel free of this particular obsession.
 
-```markdown
-Syntax highlighted code block
+The site and the articles provided are in Finnish as the survey and research was done for the Finnish speaking ICT-community. However, the data used for the research has been translated and we plan to publish a short summary of our key findings in English as well.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Credits
 
-1. Numbered
-2. List
+All content, [CC-BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), Eetu Korhonen, @Eeko
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Eeko/koodaripula.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Special thanks for [Elja-Ilari Suhonen](https://www.linkedin.com/in/eljasuhonen/) for helping with analyzing the data.
