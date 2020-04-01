@@ -1,3 +1,9 @@
+---
+layout: page
+title: Tietoa sivusta
+permalink: /about/
+---
+
 ## Mikä koodaripula.com?
 
 Koodaripula.com on itsenäinen tutkimusprojekti, jonka tarkoituksena on luoda parempaa ymmärrystä Suomen IT-työmarkkinoiden nykytilasta ja löytää konkreettisia keinoja sen kehittämiseksi. Sivusto on ainakin alkuun rakennettu maaliskuussa 2020 kerätystä pienimuotoisesta kyselytutkimuksesta saadun aineiston ja siitä nousevien huomioiden varaan, mutta voi myös laajeta tulevaisuudessa aina siihen asti, kunnes asia lakkaa minua riivaamasta.
