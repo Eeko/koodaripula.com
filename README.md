@@ -1,4 +1,4 @@
-##Koodaripula.com - better knowledge on the state of Finnish ICT labor market
+## Koodaripula.com - better knowledge on the state of Finnish ICT labor market
 
 This is a Jekyll reposotiry for an independent research project for developing better knowledge on the state of Finnish ICT employment market and for finding real world solutions for improving it. The site is initially built around a small survey executed in March 2020 and it's findings.
 
