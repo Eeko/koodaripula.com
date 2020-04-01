@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Parempaa tietoa Suomen IT-työmarkkinoista
 ---
-
-## Parempaa tietoa Suomen IT-työmarkkinoista
 
 Koodaripula.com on itsenäinen tutkimusprojekti, jonka tavoitteena on hahmottaa paremmin Suomalaisen IT-työmarkkinan tilaa ja hakea konkreettisia keinoja parantaa alan työoloja ja tuottavuutta. 
 
