@@ -4,6 +4,6 @@ This is a Jekyll reposotiry for an independent research project for developing b
 
 The site and the articles provided are in Finnish as the survey and research was done for the Finnish speaking ICT-community. However, the data used for the research has been translated and we plan to publish a short summary of our key findings in English as well.
 
-All content, [CC-BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), Eetu Korhonen
+All content, [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), Eetu Korhonen
 
 Special thanks for [Elja-Ilari Suhonen](https://www.linkedin.com/in/eljasuhonen/) for helping with analyzing the data.
