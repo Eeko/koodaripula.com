@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Koodaripulakyselyn päähavainnot
+published: false
 ---
 
 ## Tutkimuksesta lyhyesti
