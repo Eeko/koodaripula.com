@@ -18,6 +18,6 @@ The site and the articles provided are in Finnish as the survey and research was
 
 ### Credits
 
-All content, [CC-BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), Eetu Korhonen
+All content, [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), Eetu Korhonen
 
 Special thanks for [Elja-Ilari Suhonen](https://www.linkedin.com/in/eljasuhonen/) for helping with analyzing the data.
