@@ -77,7 +77,7 @@ Mielenkiintoinen on myös itsensä asiakkaiksi ja muiksi vastaajiksi luokitellei
 
 "Muu tekninen asiantuntija" -ryhmän poikkeama muista vastauksista on vaikea selittää. Mahdollisesti kysyntä poikkeaa rajusti eri ammattikuntien välillä. Voi olla, että vaikka ohjelmistokehittäjiä haetaan ahkerasti, esimerkiksi testausammattilaisten, tietoturvaosaajien tai muiden kapeampien erityisalojen työmahdollisuudet ovat merkittävästi kapeampia. Alla oleva kuva on kuvakaappaus niistä ammattikunnista jotka Linkedinn mukaan näkivät kutsujani vastaamaan kyselyyn. Sitä voinee pitää jonkinlaisena kuvauksena siitä, millaisia ammatteja tuo vastaajaryhmä ja muut pitävät sisällään.
 
-![alt text][1-linkedin-occupations]
+![alt text][1-linkedin-occupations-1]
 ![alt text][1-linkedin-occupations-2]
 
 ### Kommentoijat edustava otos aineistosta
@@ -106,7 +106,7 @@ Analyysin pohjana toimineen aineiston ja laskuihin käytetyt Jupyter-notebookit 
 [1-answer-cumulation]: /assets/1-answer-cumulation.png "Kyllä- ja Ei-vastausten kertymä aikaa myöten"
 [1-respondent-occupations]: /assets/1-respondent-occupations.png "Vastaajien työnkuvat"
 [1-occupations-by-answer]: /assets/1-occupations-by-answer.png "Kyllä- ja Ei-vastausten määrät työnkuvien mukaan"
-[1-linkedin-occupations]: /assets/1-linkedin-occupations.png "Linkedin-viestieni katselijoiden ammattikuvauksia"
+[1-linkedin-occupations-1]: /assets/1-linkedin-occupations-1.png "Linkedin-viestieni katselijoiden ammattikuvauksia"
 [1-linkedin-occupations-2]: /assets/1-linkedin-occupations-2.png "Linkedin-viestieni katselijoiden ammattikuvauksia"
 [1-answer-only-commenters]: /assets/1-answer-only-commenters.png "Kommentoijien vastausjakauma"
 [1-comments-classifications-totals]: /assets/1-comments-classification-totals.png "Kommenteissa nousseet teemat ja niiden yleisyys"
