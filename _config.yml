@@ -1,9 +1,10 @@
 #theme: minima
 title: Koodaripula.com
+tagline: Parempaa tietoa IT-alan työmarkkinoista
+url: https://www.koodaripula.com/
 author:
   name: Eetu Korhonen
-description: >
-  Itsenäinen tutkimusprojekti Suomen IT-työmarkkinoiden tilasta ja keinoista sen kehittämiseksi.
+description: Itsenäinen tutkimusprojekti Suomen IT-työmarkkinoiden tilasta ja keinoista sen kehittämiseksi.
 
 show_excerpts: false
 
@@ -20,3 +21,5 @@ minima:
     twitter: Eeko_K
     github: eeko
     linkedin: eekoo
+
+lang: fi_FI
