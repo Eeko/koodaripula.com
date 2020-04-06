@@ -31,24 +31,26 @@ Vaikka analyysiin käytetty aineisto on vapaasti ladattavissa tältä sivustolta
 Vastausten keräämisen ja kommenttien lukemisen jälkeen niistä poimittiin yleiset yhtenevät teemat, sekä kirjattiin kommentin avainajatukset englanniksi julkaistavaan aineistoon. 
 
 Kommenteista tunnistettiin seuraavia sisältöluokkia:
----
-COMMENT(QUESTION_IS_BAD): Sisälsi kritiikkiä kysymyksenasettelusta
-COMMENT(LACK_OF_TRAINING_OR_ENTRY_PATHS_FOR_BEGINNERS_TO_INDUSTRY): Huomautuksia uran aloittamisen vaikeuksista ja junioripositioiden vähyydestä
-COMMENT(SENIORS_ENGINEERS_NEEDED): Mainittiin erityisesti tarve kokeneista ohjelmistokehittäjistä
-COMMENT(OFFERS_ARE_NOT_GOOD): Nostettiin esiin palkka- ja kompensaatiokysymyksiä 
-COMMENT(SOFTWARE_QUALITY_ISSUES_LEAD_TO_UNNECESSARY_WORK): Esitettiin, että ohjelmistojen laatuongelmat johtavat korjausvelkaan, mikä johtaa liialliseen työvoimatarpeeseen
-COMMENT(INEFFICIENT_MANAGEMENT_HIRING_AND_WORK_PRACTICES): Työvoimatarpeiden taustalla on tehottomuudet työn hallinnoinnissa ja työtavoissa
-COMMENT(NO_CANDIDATES_AVAILABLE_FOR_COMPANY): Väitettiin, että yrityksen on vaikea löytää edes kandidaatteja rekrytoitavaksi
-COMMENT(CANDIDATES_REPORT_TROUBLE_FINDING_WORK): Työnhakijat, jotka raportoivat vaikeuksista työn löytämisessä
-COMMENT(TOO_HIGH_OR_SPECIFIC_SKILLS_REQUIRED_FOR_WORK): Työpaikkojen odotukset tekijöiden taitojen tasosta ovat liian suuret tai liian harvinaislaatuiset
-COMMENT(BEGINNERS_AND_LESS_SKILLED_PROGRAMMERS_EASY_TO_FIND): Mainittiin, että aloittelevia ja heikosti osaavia ohjelmoijia on helppo löytää
-COMMENT(HEADHUNTERS_ARE_VERY_ACTIVE): Huomautettiin headhunterien olevan hyvin aktiivisia
-COMMENT(LOCATION_INEQUALITY_FOR_JOBS): Kerrottiin, että ongelman taustalla on alan työpaikkojen epätasainen jakautuminen maantieteellisesti. Työpaikat ja tekijät asuvat eri paikoissa.
-COMMENT(TALENT_SHORTAGE_DISCOURSE_IS_NOT_WORKING): Esitettiin turhautumista koodaripuladiskurssiin
-COMMENT(COMMITMENT_WORRIES): Murehdittiin työvoiman sitouttamisen vaikeudesta
-COMMENT(INTERNATIONAL_LABOR): Pohdittiin kansainvälisen työvoiman käyttöä
-COMMENT(AVAILABLE_WORK_MIGHT_NOT_BE_VERY_INTERESTING): Epäiltiin, että työn etsijät eivät välttämättä ole motivoituneita tekemään niitä tehtäviä, joita olisi tarjolla.
----
+
+| Luokka | Kuvaus |
+| ------ | ------ |
+| COMMENT(QUESTION_IS_BAD): Sisälsi kritiikkiä kysymyksenasettelusta
+| COMMENT(LACK_OF_TRAINING_OR_ENTRY_PATHS_FOR_BEGINNERS_TO_INDUSTRY) | Huomautuksia uran aloittamisen vaikeuksista ja junioripositioiden vähyydestä |
+| COMMENT(SENIORS_ENGINEERS_NEEDED) | Mainittiin erityisesti tarve kokeneista ohjelmistokehittäjistä
+| COMMENT(OFFERS_ARE_NOT_GOOD) Nostettiin esiin palkka- ja kompensaatiokysymyksiä |
+| COMMENT(SOFTWARE_QUALITY_ISSUES_LEAD_TO_UNNECESSARY_WORK) | Esitettiin, että ohjelmistojen laatuongelmat johtavat korjausvelkaan, mikä johtaa liialliseen työvoimatarpeeseen |
+| COMMENT(INEFFICIENT_MANAGEMENT_HIRING_AND_WORK_PRACTICES) | Työvoimatarpeiden taustalla on tehottomuudet työn hallinnoinnissa ja työtavoissa |
+| COMMENT(NO_CANDIDATES_AVAILABLE_FOR_COMPANY) | Väitettiin, että yrityksen on vaikea löytää edes kandidaatteja rekrytoitavaksi |
+| COMMENT(CANDIDATES_REPORT_TROUBLE_FINDING_WORK) | Työnhakijat, jotka raportoivat vaikeuksista työn löytämisessä |
+| COMMENT(TOO_HIGH_OR_SPECIFIC_SKILLS_REQUIRED_FOR_WORK) | Työpaikkojen odotukset tekijöiden taitojen tasosta ovat liian suuret tai liian harvinaislaatuiset |
+| COMMENT(BEGINNERS_AND_LESS_SKILLED_PROGRAMMERS_EASY_TO_FIND) | Mainittiin, että aloittelevia ja heikosti osaavia ohjelmoijia on helppo löytää |
+| COMMENT(HEADHUNTERS_ARE_VERY_ACTIVE) | Huomautettiin headhunterien olevan hyvin aktiivisia |
+| COMMENT(LOCATION_INEQUALITY_FOR_JOBS) | Kerrottiin, että ongelman taustalla on alan työpaikkojen epätasainen jakautuminen maantieteellisesti. Työpaikat ja tekijät asuvat eri paikoissa. |
+| COMMENT(TALENT_SHORTAGE_DISCOURSE_IS_NOT_WORKING) | Esitettiin turhautumista koodaripuladiskurssiin |
+| COMMENT(COMMITMENT_WORRIES) | Murehdittiin työvoiman sitouttamisen vaikeudesta |
+| COMMENT(INTERNATIONAL_LABOR) | Pohdittiin kansainvälisen työvoiman käyttöä |
+| COMMENT(AVAILABLE_WORK_MIGHT_NOT_BE_VERY_INTERESTING) | Epäiltiin, että työn etsijät eivät välttämättä ole motivoituneita tekemään niitä tehtäviä, joita olisi tarjolla. |
+
 
 Esimerkki luokitteluista:
 
