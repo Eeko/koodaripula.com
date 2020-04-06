@@ -34,10 +34,10 @@ Kommenteista tunnistettiin seuraavia sisältöluokkia:
 
 | Luokka | Kuvaus |
 | ------ | ------ |
-| COMMENT(QUESTION_IS_BAD): Sisälsi kritiikkiä kysymyksenasettelusta
+| COMMENT(QUESTION_IS_BAD) | Sisälsi kritiikkiä kysymyksenasettelusta |
 | COMMENT(LACK_OF_TRAINING_OR_ENTRY_PATHS_FOR_BEGINNERS_TO_INDUSTRY) | Huomautuksia uran aloittamisen vaikeuksista ja junioripositioiden vähyydestä |
 | COMMENT(SENIORS_ENGINEERS_NEEDED) | Mainittiin erityisesti tarve kokeneista ohjelmistokehittäjistä
-| COMMENT(OFFERS_ARE_NOT_GOOD) Nostettiin esiin palkka- ja kompensaatiokysymyksiä |
+| COMMENT(OFFERS_ARE_NOT_GOOD) | Nostettiin esiin palkka- ja kompensaatiokysymyksiä |
 | COMMENT(SOFTWARE_QUALITY_ISSUES_LEAD_TO_UNNECESSARY_WORK) | Esitettiin, että ohjelmistojen laatuongelmat johtavat korjausvelkaan, mikä johtaa liialliseen työvoimatarpeeseen |
 | COMMENT(INEFFICIENT_MANAGEMENT_HIRING_AND_WORK_PRACTICES) | Työvoimatarpeiden taustalla on tehottomuudet työn hallinnoinnissa ja työtavoissa |
 | COMMENT(NO_CANDIDATES_AVAILABLE_FOR_COMPANY) | Väitettiin, että yrityksen on vaikea löytää edes kandidaatteja rekrytoitavaksi |
@@ -56,7 +56,7 @@ Esimerkki luokitteluista:
 
 > Useat yritykset haluavat valmiita tekijöitä ja eivät ole valmiita kouluttamaan junnuja tekijöiksi. Mikäli otettaisiin avokätisemmin vastaan myös junnuja ja osattaisiin huolehtia heidän pysyvyydestä työpaikan viihtyvyydellä ja tehtävien monipuolisuudella ja haasteellisuuden kasvattamisella samanlaista ongelmaa ei Suomessa olisi.
 
-Tästä kommentista tunnistettiin COMMENT(LACK_OF_TRAINING_OR_ENTRY_PATHS_FOR_BEGINNERS_TO_INDUSTRY), COMMENT(SENIORS_ENGINEERS_NEEDED) ja COMMENT(COMMITMENT_WORRIES) -luokat, minkä lisäksi kommentin avainajatus käännettiin seuraavasti:
+Tästä kommentista tunnistettiin `COMMENT(LACK_OF_TRAINING_OR_ENTRY_PATHS_FOR_BEGINNERS_TO_INDUSTRY)`, `COMMENT(SENIORS_ENGINEERS_NEEDED)` ja `COMMENT(COMMITMENT_WORRIES)` -luokat, minkä lisäksi kommentin avainajatus käännettiin seuraavasti:
 
 > Many companies want out-of-the-box productvie employees and are not equipped to train workforce themselves from juniors. Working to train, retain and develop employees themselves would solve the recruitment troubles.
 
