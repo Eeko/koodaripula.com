@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tietoa sivusta
+description: Tietoa koodaripula.com:sta. Information about koodaripula.com and what is it about.
 permalink: /about/
 ---
 
