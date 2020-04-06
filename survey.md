@@ -5,8 +5,6 @@ description: Tietoa maaliskuussa 2020 toteutetusta kyselytutkimuksesta koskien k
 permalink: /survey/
 ---
 
-## Pieni koodaripulakysely
-
 Keräsin maaliskuussa 2020 noin kahden viikon ajalta kyselytutkimusaineistoa Google Formsin kautta kuvan esittämällä kysymyksenasettelulla:
 
 ![alt text][survey_pic]
