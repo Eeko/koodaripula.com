@@ -78,8 +78,8 @@ Mielenkiintoinen on myös itsensä asiakkaiksi ja muiksi vastaajiksi luokitellei
 
 "Muu tekninen asiantuntija" -ryhmän poikkeama muista vastauksista on vaikea selittää. Mahdollisesti kysyntä poikkeaa rajusti eri ammattikuntien välillä. Voi olla, että vaikka ohjelmistokehittäjiä haetaan ahkerasti, esimerkiksi testausammattilaisten, tietoturvaosaajien tai muiden kapeampien erityisalojen työmahdollisuudet ovat merkittävästi kapeampia. Alla oleva kuva on kuvakaappaus niistä ammattikunnista jotka Linkedinn mukaan näkivät kutsujani vastaamaan kyselyyn. Sitä voinee pitää jonkinlaisena kuvauksena siitä, millaisia ammatteja tuo vastaajaryhmä ja muut pitävät sisällään.
 
-![alt text][1-linkedin-occupations-1]
-![alt text][1-linkedin-occupations-2]
+![alt text][1-linkedin-occupations-1]{:width="380px"}
+![alt text][1-linkedin-occupations-2]{:width="380px"}
 
 ### Kommentoijat edustava otos aineistosta
 
