@@ -2,7 +2,7 @@
 layout: post
 title: Koodaripulakyselyn päähavainnot
 description: Koodaripula.com 2020 kyselytutkimuksen päähavainnot
-published: true
+published: false
 ---
 
 ## Tutkimuksesta lyhyesti
