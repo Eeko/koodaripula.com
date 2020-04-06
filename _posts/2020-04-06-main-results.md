@@ -106,5 +106,5 @@ Analyysin pohjana toimineen aineiston ja laskuihin käytetyt Jupyter-notebookit 
 [1-occupations-by-answer]: /assets/1-occupations-by-answer.png "Kyllä- ja Ei-vastausten määrät työnkuvien mukaan"
 [1-linkedin-occupations]: /assets/1-linkedin-occupations.png "Linkedin-viestieni katselijoiden ammattikuvauksia"
 [1-answer-only-commenters]: /assets/1-answer-only-commenters.png "Kommentoijien vastausjakauma"
-[1-comments-classifications-totals]: /assets/1-comments-classifications-totals.png "Kommenteissa nousseet teemat ja niiden yleisyys"
-[1-comments-classifications-by-answers]: /assets/1-comments-classifications-by-answers.png "Kommenteissa nousseet teemat vastaustyyppien mukaan"
+[1-comments-classifications-totals]: /assets/1-comments-classification-totals.png "Kommenteissa nousseet teemat ja niiden yleisyys"
+[1-comments-classifications-by-answers]: /assets/1-comments-classification-by-answers.png "Kommenteissa nousseet teemat vastaustyyppien mukaan"
