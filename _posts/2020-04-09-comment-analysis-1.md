@@ -10,13 +10,18 @@ Tutkimukseen osallistujista noin 40% jätti myös vapaaehtoisen kommentin avaten
 ### Koodaripula koskee nimenomaan kokeneita senioridevaajia
 
 > Kasvua olisi tarjolla, jos samanlaisia osaajia, kuin jo nyt on olemassa, olisi enemmän.
->  - Rekrytoija #
+>  -- Rekrytoija #
 
 > Rekryprosesseissa näkee, että koodareilla on vaihtoehtoja ja he voivat aikalailla valita työpaikkansa. Toki tämä koskee vain hyviä koodareita, kehnompia olisi saatavilla ja heidän on vaikeampi työllistyä.
->  - Rekrytoija #
+>  -- Rekrytoija #
 
 > Pulaa on kokeneista koodareista, jotka voivat tehdä hyvin itsenäistä työtä ja auttaa junnuja.
->  - Ohjelmistokehittäjä #
+>  -- Ohjelmistokehittäjä #
 
 > Koodareita on helvetisti, mutta kaikki haluaa parhaat. Eli pulaa on huippukoodareista
->  - Tekninen asiantuntija #
+>  -- Tekninen asiantuntija #
+
+Yleisin kommenteissa esiintynyt huomio oli, että yritykset kaipaavat nimenomaan kannuksensa jo kerryttäneitä, kokeneita ohjelmistokehittäjiä. Syitä tähän ovat mm.
+ - Kokeneet kehittäjät ovat usein tuottavia jo palkattaessa. Yrityksen tarvitsee investoida vähemmän aikaa ja rahaa heidän kouluttamiseensa. Rekrytoinnin riskit ovat olennaisesti pienemmät.
+ - Kokeneiden kehittäjien CV:illä voitetaan kilpailutuksia.
+ - 
