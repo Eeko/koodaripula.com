@@ -12,9 +12,6 @@ Tutkimukseen osallistujista noin 40% jätti myös vapaaehtoisen kommentin avaten
 > Kasvua olisi tarjolla, jos samanlaisia osaajia, kuin jo nyt on olemassa, olisi enemmän.
 >  -- Rekrytoija #252
 
-> Rekryprosesseissa näkee, että koodareilla on vaihtoehtoja ja he voivat aikalailla valita työpaikkansa. Toki tämä koskee vain hyviä koodareita, kehnompia olisi saatavilla ja heidän on vaikeampi työllistyä.
->  -- Rekrytoija #409
-
 > Pulaa on kokeneista koodareista, jotka voivat tehdä hyvin itsenäistä työtä ja auttaa junnuja.
 >  -- Ohjelmistokehittäjä #144
 
@@ -30,7 +27,7 @@ Muita mainittuja syitä suosia nimenomaan kokeneita kehittäjiä ovat mm.
 
  - Kokeneet kehittäjät ovat usein tuottavia jo palkattaessa. Yrityksen tarvitsee investoida vähemmän aikaa ja rahaa heidän kouluttamiseensa. Rekrytoinnin riskit ovat olennaisesti pienemmät kun osaajan taustalla on ns. "social proof" siitä, että joku muukin on vapaaehtoisesti tekijälle palkkaa maksanut.
  - Senioridevaajien CV:illä voitetaan kilpailutuksia. Monet tarjouskilpailut edellyttävät esimerkkejä mahdollisten kehittäjien ansioluetteloista ja mikäli yrityksellä on esittää kokeneempien tekijöiden papereita kuin kilpailijoilla, työn myyjä saavuttaa kilpailuetua.
- - Joidenkin yritysten "brändinä" on tietynlainen ekslusiivisuus ja korkea rima rekrytoinneille. Tätä voidaan hyödyntää niin asiakasviestinnässä (laatutakuu), kuin myös henkilöstöä kohtaan annettuna "työnantajalupauksena" ja yhteishengen kehittäjänä. Jos pelaat jo A-sarjassa, niin minne muualle pitäisi mennä kehittymään?
+ - Monien yritysten "brändinä" on tietty ekslusiivisuus ja korkea rima rekrytoinneille. Tätä voidaan hyödyntää niin asiakasviestinnässä (laatutakuu), kuin myös henkilöstöä kohtaan annettuna "työnantajalupauksena" ja yhteishengen kehittäjänä. Jos pelaat jo A-sarjassa, niin minne muualle voi enää mennä kehittymään?
 
 Sekä "Kyllä" että "Ei" -vastanneet mainitsivat seniorikehittäjien tarpeen suurin piirtein yhtä usein. Huomionarvoista on, että rekrytoijat ovat aavistuksen yliedustettuina tämän huomion esittäjissä. Rekrytoijia oli koko kyselyyn vastaajista alle 5%, mutta senioridevaajien puutteesta mainitsijoista heitä oli n. 7%. Neljä kuudesta vapaaehtoisen kommentin jättäneistä rekrytoijista huomautti nimenomaan kokeneiden devaajien löytämisen vaikeudesta.
 
@@ -64,13 +61,25 @@ Palkkakysymyksistä kommentoineiden koodaripulanäkemys oli koko otokseen nähde
 > Kukaan ei halua kouluttaa kunnolla junioreita koska ne lähtevät parempien liksojen perässä eteenpäin.
 > -- Ohjelmistokehittäjä #404
 
+> Rekryprosesseissa näkee, että koodareilla on vaihtoehtoja ja he voivat aikalailla valita työpaikkansa. Toki tämä koskee vain hyviä koodareita, kehnompia olisi saatavilla ja heidän on vaikeampi työllistyä.
+>  -- Rekrytoija #409
+
 > Junioritason kaverin on todella hankala saada palkallisia töitä nykytilanteessa.
 > -- Ohjelmistokehittäjä #392
 
 > Kokeneita kehittäjiä kyllä kaivataan, mutta "koodaripula" ei ole sillä tasolla että junnuja kuitenkaan kelpuutettaisiin. Ihan yhtä vaikea saada koulujen jälkeen jalkaa oven väliin, muuta kuin tuurilla ja/tai suhteilla.
 > -- Ohjelmistokehittäjä #400
 
-Kolmanneksi eniten kommenteista nousi esille erilaiset ongelmat vasta aloittelevien tai muutoin "heikkotasoisemmiksi" koettujen ohjelmistokehittäjien työllistämiseksi.
+Kolmanneksi eniten kommenteista nousi esille huonoja uutisia koodarin ammatista haaveileville. Vasta aloittelevia koodaajia pidettiin laajalti tuottamattomina ja riskialttiina investointina yrityksille. Tämän lisäksi valiteltiin laajaa hajontaa haastateltujen kandidaattien taitotasoissa, sekä koodia ostavien asiakkaiden suvaitsemattomuutta kokemattomien kehittäjien tekemää työtä kohtaan.
+
+Ensityöpaikkojen puutteesta maininneet vastaajat jakautuivat 50-50 Kyllä- ja Ei-vastaajiin pääkysymyksen osalta. Koska kaikista vastaajista jonkin verran suurempi osuus kallistui "Kyllä" -puolelle, tätä näkemystä voi pitää aavistuksen koodaripulan kiistävien argumenttina. Ammatillisesti vastaajat jakautuivat jokseenkin samoin kuin koko kyselyyn vastanneet. "Muut tietotekniset asiantuntijat" edustivat näistä vastaajista n. 31%:ia, kun kaikista vastaajista heitä oli n. 22%.
+
+Tuloksien perusteella vaikuttaa siltä, että juniorikehittäjistä on löydettävissä käyttämätöntä osaajapääomaa. Tämän hyödyntäminen vaatinee kuitenkin monen yrityksen kohdalla muutoksia toimintakulttuuriin ja jopa ydinliiketoimintaan. Kyvykkyyksiä esimerkiksi juniorityön myymiseksi tai puutteellisen osaamisen kouluttamiseksi saattaa joutua rakentamaan tyhjästä. Kokeneemmilta työntekijöiltä puuttuvat usein myös insentiivit nuorempien ja kokemattomien auttamiseen. Teknologiakonferensseihin harvoin kutsutaan devaajia  trainee-ohjelmiensa innovaatioita esittelemään, eivätkä hyvät mentorointitaidot näy urakehityksen kannalta tärkeissä portfolioissa Github-koodipätkien tavoin.
+
+### Osaamisvaatimukset ovat kohtuuttomia
+
+### Sopimattomista devaajista on jopa ylitarjontaa
+
 
 
 
