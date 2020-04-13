@@ -91,10 +91,6 @@ Tuloksien perusteella vaikuttaa siltä, että juniorikehittäjistä on löydett�
 
 ### Osaamisvaatimukset ovat kohtuuttomia
 
-> Usein haetaan jonkin tietyn, kapean alueen tai pienen nippelitekniikan osaajaa ja kun sellaista ei löydy tai osaajalle ei haluta maksaa, niin työnantaja ottaa helposti marttyyrin roolin ja valitetaan, kun ei löydy tekijöitä
-> 
-> -- Ohjelmistokehittäjä #203
-
 > Kehittäjiä on, näyttää vain siltä, että yritysten vaatimukset ovat hyvin erityisiä, sulkevat pois monet, jotka pystyisivät tekemään työn.
 > 
 > -- Ohjelmistokehittäjä #422
@@ -111,7 +107,7 @@ Tuloksien perusteella vaikuttaa siltä, että juniorikehittäjistä on löydett�
 > 
 > -- Tekninen asiantuntija #38
 
-Suurin osa ohjelmistoammattilaisista lienee törmännyt työpaikkailmoituksiin, missä tekijältä vaadittu pino osattuja teknologioita on ollut kokonaisen IT-osaston pituinen tai vain pari vuotta olemassa olleesta työkalusta kaivataan vuosikymmenen kokemusta.
+Suurin osa ohjelmistoammattilaisista lienee törmännyt työpaikkailmoituksiin, missä tekijältä vaadittu pino osattuja teknologioita on ollut kokonaisen IT-osaston pituinen tai vain pari vuotta olemassa olleesta työkalusta kaivataan vuosikymmenen kokemusta. Feikkityöpaikkailmoitukset ja 
 
 ### Sopimattomista devaajista on jopa ylitarjontaa
 
