@@ -107,7 +107,9 @@ Tuloksien perusteella vaikuttaa siltä, että juniorikehittäjistä on löydett�
 > 
 > -- Tekninen asiantuntija #38
 
-Suurin osa ohjelmistoammattilaisista lienee törmännyt työpaikkailmoituksiin, missä tekijältä vaadittu pino osattuja teknologioita on ollut kokonaisen IT-osaston pituinen tai vain pari vuotta olemassa olleesta työkalusta kaivataan vuosikymmenen kokemusta. Feikkityöpaikkailmoitukset ja 
+Suurin osa ohjelmistoammattilaisista lienee törmännyt työpaikkailmoituksiin, missä tekijältä vaadittu pino osattuja teknologioita on ollut kokonaisen IT-osaston pituinen tai vain pari vuotta olemassa olleesta työkalusta kaivataan vuosikymmenen kokemusta. Vale- ja hutiloitujen ilmoitusten lisäksi löytyy myös paljon työpaikkoja, missä toivottu osaamiskirjo on muodostunut liian laajaksi suurimmalle osalle tekijöistä.
+
+Vaikka yritys saattaa ajatella 
 
 ### Sopimattomista devaajista on jopa ylitarjontaa
 
