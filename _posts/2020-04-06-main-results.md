@@ -25,20 +25,20 @@ Lisää tietoa itse tutkimuksesta voi löytää [Tietoa tutkimuksesta](/survey) 
 
 ![alt text][1-main-question-yn]
 
-Kun on pakko valita, enin osa vastaajista kallistui "Kyllä" -vastauksen puolelle. Itsestäänselvänä pulakokemusta ei kuitenkaan selvästi pidetä, sillä yli kolmannes vastaajista päätyi kyseenalaistavaan vastaukseen. Tämän lisäksi lukuisat vastaukset täsmensivät vastaustaan kommenteilla, joiden sisällöt olivat verrattain usein saman suuntaisia riippumatta vastauksesta itse pääkysymykseen. Usein samoilla perusteilla päädyttiin molempiin vastausvaihtoehtoihin, mistä voi päätellä että jonkinlaiselle "En osaa sanoa" -vastausvaihdolle olisi ollut kysyntää.
+Kun on pakko valita, enin osa vastaajista kallistui "Kyllä" -vastauksen puolelle. Itsestään selvänä pulakokemusta ei kuitenkaan selvästi pidetä, sillä yli kolmannes vastaajista päätyi kyseenalaistavaan vastaukseen. Tämän lisäksi lukuisat vastaukset täsmensivät vastaustaan kommenteilla, joiden sisällöt olivat verrattain usein saman suuntaisia riippumatta vastauksesta itse pääkysymykseen. Usein samoilla perusteilla päädyttiin molempiin vastausvaihtoehtoihin. Tästä voi päätellä, että jonkinlaiselle "En osaa sanoa" -vastausvaihdolle olisi ollut kysyntää.
 
 
 ### Somekuplien välillä on havaittavissa eroja
 
 ![alt text][1-answer-cumulation]
 
-Keräsin myös aikajanan eri vastausten kertymisestä. Tarkoitus oli kerätä tietoa siitä, kuinka kysely liikkuisi eri sosiaalisissa medioissa ja kuinka näistä kertyvät vastaukset mahdollisesti eroaisivat toisistaan. Vastausten kertymästä piirtämästäni kuvaajasta voi selvästi erottaa muutamia vastausten kertymävaiheita ja eroja käyröjen kasvunopeudessa.
+Keräsin myös aikajanan eri vastausten kertymisestä. Tarkoitus oli kerätä tietoa siitä, kuinka kysely liikkuisi eri sosiaalisissa medioissa ja kuinka näistä kertyvät vastaukset mahdollisesti eroaisivat toisistaan. Vastausten kertymästä piirtämästäni kuvaajasta voi selvästi erottaa muutamia vastausten kertymävaiheita ja eroja käyrien kasvunopeudessa.
 
-Alkuun jaoin linkkiä kyselyyn lähinnä minulle läheisimmissä teknisissä IRC-kanavissa sekä Linkedinissä. Näille medioille oli tyypillistä, että kyselylinkit hautautuivat nopeasti viestitulvaan eivätkä kauaa näkyneet suurimmalle osalle kanavien seuraajista. Minulle läheisimmissä kuplissa on myös keskusteltu aiheesta aiemminkin ahkerasti, mikä varmasti näkyy osaltaan myöhempiä vastauksia merkittävästi tasaisempana hajontana vastausvaihtoehtojen välillä. Hiljalleen "Kyllä" -vastaukset alkoivat kuitenkin muodostaa selvän kaulan "Ei" -vastauksiin, eikä eri vastausten suhdeluku alun jälkeen merkittävästi enää muuttunut.
+Alkuun jaoin linkkiä kyselyyn lähinnä minulle läheisimmissä teknisissä IRC-kanavissa sekä LinkedInissä. Näille medioille oli tyypillistä, että kyselylinkit hautautuivat nopeasti viestitulvaan eivätkä kauaa näkyneet suurimmalle osalle kanavien seuraajista. Minulle läheisimmissä kuplissa on myös keskusteltu aiheesta aiemminkin ahkerasti, mikä varmasti näkyy osaltaan myöhempiä vastauksia merkittävästi tasaisempana hajontana vastausvaihtoehtojen välillä. Hiljalleen "Kyllä" -vastaukset alkoivat kuitenkin muodostaa selvän kaulan "Ei" -vastauksiin, eikä eri vastausten suhdeluku alun jälkeen merkittävästi enää muuttunut.
 
 "Kyllä" -vastauksissa on nähtävissä selvä piikki maaliskuun kolmantena. Tuolloin jaoin linkkiä ainakin Facebookin "IT-rekryn ihmeellinen maailma" -ryhmässä. Rekrytoijat vastasivat voittopuoleisesti "Kyllä" -kysymykseen, mikä luultavasti selittää nousua.
 
-Suurin nousu vastausmäärissä tapahtui viides maaliskuuta, kun [kysyin Redditin softa-ammattilaisten kokemuksia koodaripulasta](https://www.reddit.com/r/Suomi/comments/fds36d/redditin_softaammattilaiset_huomio_kaksi/). Some-mainonta ja viraalilevitys oli kiistatta tehokas tapa kerryttää vastauksia, mutta vastausten ja johtopäätösten luotettavuuden kannalta on ongelma, että vonkaukseni keräsivät myös aktiivista keskustelua ympärilleen, mikä varmasti vaikutti jossain määrin itse vastauksiin ja vastaajien jättämiin kommentteihin. Redditin viestiketju on varsin tyypillinen näyte niistä keskusteluista, mitä havaitsin myös muilla käyttämilläni somealustoilla käydyn kyselymyksistä.
+Suurin nousu vastausmäärissä tapahtui viides maaliskuuta, kun [kysyin Redditin softa-ammattilaisten kokemuksia koodaripulasta](https://www.reddit.com/r/Suomi/comments/fds36d/redditin_softaammattilaiset_huomio_kaksi/). Some-mainonta ja viraalilevitys oli kiistatta tehokas tapa kerryttää vastauksia, mutta vastausten ja johtopäätösten luotettavuuden kannalta on ongelma, että vonkaukseni keräsivät myös aktiivista keskustelua ympärilleen, mikä varmasti vaikutti jossain määrin itse vastauksiin ja vastaajien jättämiin kommentteihin. Redditin viestiketju on varsin tyypillinen näyte niistä keskusteluista, mitä havaitsin myös muilla käyttämilläni somealustoilla käydyn kysymyksistäni.
 
 Tämän jälkeen harrastin säännöllistä muistuttamista kyselyni olemassaolosta käyttämissäni sosiaalisissa medioissa. Lisäksi sain kuulla ainakin muutamien vastaajien myös jakaneen kyselyä eteenpäin omissa piireissään. Nämä näkyvät selvästi pieninä kasvupyrähdyksinä vastausmäärissä, mutta itse vastausten hajontaan vaikuttavia kuplia näistä on vaikeampi havaita.
 
@@ -72,18 +72,18 @@ Vastaajista 85% luokitteli itsensä joko ohjelmoijiksi tai muiksi tietoteknisiks
 
 ![alt text][1-occupations-by-answer]
 
-Eri ammattikuntien vastauksista rekrytoijat sekä "muut tekniset asiantuntijat" erottuvat selvästi vastauksissan. Kahdestakymmenstä rekrytoijasta vain yksi vastaaja vastasi kieltävästi kysymykseen, kun taas muiden teknisten asiantuntijoiden ryhmässä vastaukset muodostivat miltei 50-50 tasapelin. Muissa suuremmissa vastaajaryhmissä vastausten määrät päätyivät lähelle 62-38 jakaumaa, mikä kielii näiden ammattikuntien jakavan käsityksensä ja kokemuksensa koodaripulasta.
+Eri ammattikuntien vastauksista rekrytoijat sekä "muut tekniset asiantuntijat" erottuvat selvästi vastauksissan. Kahdestakymmenestä rekrytoijasta vain yksi vastaaja vastasi kieltävästi kysymykseen, kun taas muiden teknisten asiantuntijoiden ryhmässä vastaukset muodostivat miltei 50-50 tasapelin. Muissa suuremmissa vastaajaryhmissä vastausten määrät päätyivät lähelle 62-38 jakaumaa, mikä kielii näiden ammattikuntien jakavan käsityksensä ja kokemuksensa koodaripulasta.
 
 Mielenkiintoinen on myös itsensä asiakkaiksi ja muiksi vastaajiksi luokitelleiden ryhmissä näkyvä "Ei" -vastausten enemmistö. Otoskokoa ei näissä voi kuitenkaan pitää riittävän suurena luotettaviin johtopäätöksiin. Voi olla kuitenkin mielenkiintoista selvittää esimerkiksi sitä, kuinka koettu koodaripula varsinaisesti näkyy asiakkaille? Kaksi neljästä muusta vastaajista olivat opiskelijoita ja yksi opettaja, joiden vastaukset saattavat kertoa saaduissa kommenteissa esille nousseista alalla vasta aloittelevien työllistymisvaikeuksista.
 
-"Muu tekninen asiantuntija" -ryhmän poikkeama muista vastauksista on vaikea selittää. Mahdollisesti kysyntä poikkeaa rajusti eri ammattikuntien välillä. Voi olla, että vaikka ohjelmistokehittäjiä haetaan ahkerasti, esimerkiksi testausammattilaisten, tietoturvaosaajien tai muiden kapeampien erityisalojen työmahdollisuudet ovat merkittävästi kapeampia. Alla oleva kuva on kuvakaappaus niistä ammattikunnista jotka Linkedinn mukaan näkivät kutsujani vastaamaan kyselyyn. Sitä voinee pitää jonkinlaisena kuvauksena siitä, millaisia ammatteja tuo vastaajaryhmä ja muut pitävät sisällään.
+"Muu tekninen asiantuntija" -ryhmän poikkeama muista vastauksista on vaikea selittää. Mahdollisesti kysyntä poikkeaa rajusti eri ammattikuntien välillä. Voi olla, että vaikka ohjelmistokehittäjiä haetaan ahkerasti, esimerkiksi testausammattilaisten, tietoturvaosaajien tai muiden kapeampien erityisalojen työmahdollisuudet ovat merkittävästi kapeampia. Alla olevat kuvat ovat esimerkkejä niistä ammattikunnista, jotka LinkedInin mukaan näkivät kutsujani kyselyyn. Näitä voinee pitää jonkinlaisena kuvauksena siitä, millaisia ammatteja tuo vastaajaryhmä pitää sisällään.
 
 ![alt text][1-linkedin-occupations-1]{:width="380px"}
 ![alt text][1-linkedin-occupations-2]{:width="380px"}
 
 ### Kommentoijat edustava otos aineistosta
 
-Loput aineistoanalyysistä ja seuraavat artikkelit sarjassa tulevat koskemaan lähinnä kyselyni kolmatta osaa - vapaamuotoisia kommentteja ja niistä luokittelussa nousseita teemoja. Jotta voisimme arvioida voidaanko lukujen takana piilevää ajattelua tulkita kommenteista, halusin selvittää noudattaako kommentoineiden vastaukset samaa jakaumaa kuin kaikilla vastaajilla:
+Loput aineistoanalyysistä ja seuraavat artikkelit sarjassa tulevat koskemaan lähinnä kyselyni kolmatta osaa - vapaamuotoisia kommentteja ja niistä luokittelussa nousseita teemoja. Jotta voimme arvioida, voidaanko lukujen takana piilevää ajattelua tulkita kommenteista, halusin selvittää noudattaako kommentoineiden vastaukset likimain samaa jakaumaa kuin kaikilla vastaajilla:
 
 ![alt text][1-answer-only-commenters]
 
@@ -104,11 +104,19 @@ Kommenttien luokittelussa on myös havaittavissa joitain eroja "Kyllä" ja "Ei" 
 Analyysin pohjana toimineen aineiston ja laskuihin käytetyt Jupyter-notebookit voi löytää tämän projektin [Githubista](https://github.com/Eeko/koodaripula.com/tree/master/datasets). Seuraavissa artikkeleissa tulemme purkamaan yksityiskohtaisemmin näkemiämme kommentteja ja niistä löytyviä teemoja.
 
 [1-main-question-yn]: /assets/1-main-question-yn.png "62% vastaajista pitää koodaripulaa todellisena"
+
 [1-answer-cumulation]: /assets/1-answer-cumulation.png "Kyllä- ja Ei-vastausten kertymä aikaa myöten"
+
 [1-respondent-occupations]: /assets/1-respondent-occupations.png "Vastaajien työnkuvat"
+
 [1-occupations-by-answer]: /assets/1-occupations-by-answer.png "Kyllä- ja Ei-vastausten määrät työnkuvien mukaan"
+
 [1-linkedin-occupations-1]: /assets/1-linkedin-occupations-1.png "Linkedin-viestieni katselijoiden ammattikuvauksia"
+
 [1-linkedin-occupations-2]: /assets/1-linkedin-occupations-2.png "Linkedin-viestieni katselijoiden ammattikuvauksia"
+
 [1-answer-only-commenters]: /assets/1-answer-only-commenters.png "Kommentoijien vastausjakauma"
+
 [1-comments-classifications-totals]: /assets/1-comments-classification-totals.png "Kommenteissa nousseet teemat ja niiden yleisyys"
+
 [1-comments-classifications-by-answers]: /assets/1-comments-classification-by-answers.png "Kommenteissa nousseet teemat vastaustyyppien mukaan"
