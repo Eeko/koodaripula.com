@@ -53,7 +53,7 @@ Sekä "Kyllä" että "Ei" -vastanneet mainitsivat seniorikehittäjien tarpeen su
 
 Jos työmarkkinat noudattavat normaaleja kysynnän ja tarjonnan periaatteita, niukkuuden tulisi nostaa niukan resurssin hintoja, mikä sittemmin vähentää kysyntää kaikkien halukkaiden ollessa kyvyttömiä maksamaan markkinahintaa. Hintojen nousu houkuttelee tarjonnan kasvattamiseen, kunnes kysynnän vähentyminen ja tarjonnan nousu johtaa uuteen markkinatasapainoon. Liian kalliiksi käyvien henkilöstökulujen ja liian alhaisen tuottavuuden vuoksi liiketoimintansa lopettavat yritykset myös osaltaan vapauttavat sitomaansa työvoimaa markkinoille, lisäten työvoiman tarjontaa.
 
-Vaikka pitäisi koodarien yleistä ansiotasoa kelvollisena, palkkojen yhtenevyys eri yritysten välillä hidastaa työvoiman liikkuvuutta mahdollisesti mielekkäämpiin ja tuottavampiin tehtäviin. Tilanteessa missä kaikki töitä tarjoavat yritykset tarjoavat samaa "kilpailukykyistä palkkaa", jo valmiiksi töissään viihtyvillä ja asiansa osaavilla ohjelmistokehittäjillä ei muodostu taloudellisia insentiivejä harkita kilpailevia työtarjouksia. Koodaria on vaikea palkata, kun sillä on jo samanlainen tai parempi työpaikka toisaalla.
+Vaikka pitäisi koodarien yleistä ansiotasoa kelvollisena, palkkojen yhtenevyys eri yritysten välillä hidastaa työvoiman liikkuvuutta mahdollisesti mielekkäämpiin ja tuottavampiin tehtäviin. Tilanteessa missä kaikki töitä tarjoavat yritykset tarjoavat samaa "kilpailukykyistä palkkaa", jo valmiiksi töissään viihtyvillä ja asiansa osaavilla ohjelmistokehittäjillä ei muodostu taloudellisia insentiivejä harkita kilpailevia työtarjouksia. Koodaria on vaikea palkata, kun sillä on jo samanlainen tai parempi työpaikka toisaalla. [Alan palkkakilpailu on Suomessa ollut toistaiseksi maltillista][vierityspalkki-palkat], minkä lisäksi asiakkaiden maksamat [hinnat koodityöstä ovat Suomessa polkeneet pitkään paikallaan][eeko-tuntihinnat].
 
 Palkkakysymyksistä kommentoineiden koodaripulanäkemys oli koko otokseen nähden päinvastainen. Suurin osa kiisti koodaripulan olemassaolon, vaikkakin noin kolmannes heistäkin vastasi pääkysymykseen "Kyllä." Lisäksi tämä osajoukko koostui liki yksinomaan ohjelmoijista ja muista teknisistä asiantuntijoista, eikä yksikään rekrytoija saati yritykseen johtoon tai hallintoon kuuluva maininnut palkkakysymyksiä kommenteissaan. Tämä viittaisi siihen, että Suomen devaajamarkkinoilta löytyy merkittävästi väkeä, joita kiinnostavat mahdollisuudet ulosmitata osaamisensa kysyntää taloudellisesti nykyistä enemmän.
 
@@ -87,7 +87,7 @@ Kolmanneksi eniten kommenteista nousi esille huonoja uutisia koodarin ammatista 
 
 Ensityöpaikkojen puutteesta maininneet vastaajat jakautuivat 50-50 Kyllä- ja Ei-vastaajiin pääkysymyksen osalta. Koska kaikista vastaajista jonkin verran suurempi osuus kallistui "Kyllä" -puolelle, tätä näkemystä voi pitää aavistuksen koodaripulan kiistävien argumenttina. Ammatillisesti vastaajat jakautuivat jokseenkin samoin kuin koko kyselyyn vastanneet. "Muut tietotekniset asiantuntijat" edustivat näistä vastaajista n. 31%:ia, kun kaikista vastaajista heitä oli n. 22%.
 
-Tuloksien perusteella vaikuttaa siltä, että juniorikehittäjistä on löydettävissä käyttämätöntä osaajapääomaa. Tämän hyödyntäminen vaatinee kuitenkin monen yrityksen kohdalla muutoksia toimintakulttuuriin ja jopa ydinliiketoimintaan. Kyvykkyyksiä esimerkiksi juniorityön myymiseksi tai puutteellisen osaamisen kouluttamiseksi saattaa joutua rakentamaan tyhjästä. Kokeneemmilta työntekijöiltä puuttuvat usein myös insentiivit nuorempien ja kokemattomien auttamiseen. Teknologiakonferensseihin harvoin kutsutaan devaajia  trainee-ohjelmiensa innovaatioita esittelemään, eivätkä hyvät mentorointitaidot näy urakehityksen kannalta tärkeissä portfolioissa Github-koodipätkien tavoin.
+Tuloksien perusteella vaikuttaa siltä, että juniorikehittäjistä on löydettävissä käyttämätöntä osaajapääomaa. Tämän hyödyntäminen vaatinee kuitenkin monen yrityksen kohdalla muutoksia toimintakulttuuriin ja jopa ydinliiketoimintaan. Kyvykkyyksiä esimerkiksi juniorityön myymiseksi tai puutteellisen osaamisen kouluttamiseksi saattaa joutua rakentamaan tyhjästä. Kokeneemmilta työntekijöiltä puuttuvat usein myös insentiivit nuorempien ja kokemattomien auttamiseen. Teknologiakonferensseihin harvoin kutsutaan devaajia trainee-ohjelmiensa laadusta kertomaan, eivätkä hyvät mentorointitaidot näy urakehityksen kannalta tärkeissä portfolioissa Github-koodipätkien tavoin.
 
 ### Osaamisvaatimukset ovat kohtuuttomia
 
@@ -104,6 +104,8 @@ Tuloksien perusteella vaikuttaa siltä, että juniorikehittäjistä on löydett�
 > -- Tekninen asiantuntija #38
 
 Suurin osa ohjelmistoammattilaisista lienee törmännyt työpaikkailmoituksiin, missä tekijältä vaadittu pino osattuja teknologioita on ollut kokonaisen IT-osaston pituinen tai vain pari vuotta olemassa olleesta työkalusta kaivataan vuosikymmenen kokemusta. Vale- ja hutiloitujen ilmoitusten lisäksi löytyy myös paljon työpaikkoja, missä toivottu osaamiskirjo on muodostunut liian laajaksi suurimmalle osalle tekijöistä.
+
+![alt text][2-it-department]{:width="380px"}
 
 Vaikka yritys saattaa ajatella tarpeensa olevan realistisen ja suhteessa heidän muun henkilöstönsä osaamiseen, jokainen lisäkriteeri mikä rekrytoitavalle osoitetaan vähentää isolla kertoimella todennäköisyyksiä sopivan henkilön löytämiseksi. Tämän lisäksi vaativat ilmoitukset vähentävät hakijoiden mielenkiintoa työpaikkoja kohti, koska pitkästä toivelistasta lannistunut työnhakija saattaa tulkita position ajan hukkaamiseksi ja jättää hakemuksen tekemättä.
 
@@ -127,20 +129,34 @@ Vastaukset antavat viitteitä siitä, että yritykset jotka kykenevät sopeuttam
 
 Viidenneksi yleisin huomio kommenteissa lienee kaikkein suorimmin ristiriidassa vallitsevan koodaripulanarratiivin kanssa. Huomionarvoista on myös, että sopimattomien ja kokemattomien ohjelmistokehittäjien suuresta määrästä kertoneista n. 74% vastasi pääkysymykseen myöntävästi. Yli 15% keskiarvoa useampi siis katsoi koodaripulan olevan tosiasian, mutta huomauttaen epäsopivista osaajista olevan ylitarjontaa. Tehtäviensä puolesta vastaajaprofiilit vastasivat varsin tasaisesti kaikkia kyselyyn vastanneita.
 
-Tyypillisin osaajaprofiili joiden ylitarjonnasta mainittiin olivat kokemattomat junioridevaajat. Moni myös koki monien kokeneempienkin tekijöiden taidot heikoiksi tai soveltumattomiksi tehtäviin. Tyyppiesimerkkejä tästä ajattelusta ovat esimerkiksi hiljattain tiedotusvälineissä puitu datanomien heikko työllisyystilanne tai Nokian matkapuhelinliiketoimintojen alasajon yhteydessä koettu huoli "Symbian-kehittäjien osaamisen vanhentumisesta."
+Tyypillisin osaajaprofiili joiden ylitarjonnasta mainittiin olivat kokemattomat junioridevaajat. Moni myös koki monien kokeneempienkin tekijöiden taidot heikoiksi tai soveltumattomiksi tehtäviin. Tyyppiesimerkkejä tästä ajattelusta ovat esimerkiksi hiljattain tiedotusvälineissä puitu [datanomien heikko työllisyystilanne][yle-konkarit] tai Nokian matkapuhelinliiketoimintojen alasajon yhteydessä koettu huoli "[Symbian-kehittäjien osaamisen vanhentumisesta][insinoori-symbian]."
 
-Kokemattomien tai väärän profiilin kehittäjien vierastaminen paljastaa myös lohduttoman kuvan tällä hetkellä suosituimmista ratkaisuehdotuksista koodaripulaan. Lukuisat korkeakoulut ovat lisänneet koodaripulasta vaikertavan teollisuuden toiveesta koulutusmääriään, alanvaihtajille on rakennettu pikakoulutusohjelmia ohjelmointiammatteihin ja kiinnostusta koodaamiseen koetetaan ehdollistaa jopa kouluikäisiin. Näiden hankkeiden hyödyllisyyttä voidaan kuitenkin kyseenalaistaa, mikäli pullonkaulaksi meille muodostuu teollisuuden heikko kyky järjestää ohjelmoinnista motivoituneille aloittelijoille ensimmäisiä työpaikkojaan? Kokeneita senioridevaajia ei tule syntymään, mikäli sellaisia positioita ei ole missä kokemusta voisi kerätä.
+Kokemattomien tai väärän profiilin kehittäjien vierastaminen paljastaa myös lohduttoman kuvan tällä hetkellä suosituimmista ratkaisuehdotuksista koodaripulaan. Lukuisat korkeakoulut ovat lisänneet koodaripulasta vaikertavan teollisuuden toiveesta koulutusmääriään, alanvaihtajille on rakennettu pikakoulutusohjelmia ohjelmointiammatteihin ja kiinnostusta koodaamiseen koetetaan ehdollistaa jopa kouluikäisiin. Näiden hankkeiden hyödyllisyyttä voidaan kuitenkin kyseenalaistaa, mikäli pullonkaulaksi meille muodostuu teollisuuden heikko kyky järjestää ohjelmoinnista motivoituneille aloittelijoille ensimmäisiä työpaikkojaan? 
 
-### Pohdintaa
+Kokeneita senioridevaajia ei tule syntymään, mikäli sellaisia positioita ei ole missä kokemusta voisi kerätä. Oma tragediansa on myös hukatuissa opiskeluvuosissa ja inhimillisessä pääomassa, mikä menee hukkaan koodausammatteja kauan opiskelleista, mutta ensityöpaikkojen korkean riman alittaneista kandidaateista.
 
+### Muna vaiko kana?
 
-- Ketkä ovat portinvartijoita
-- Työnvaihtajien motiivit töihin leipääntyminen, riidat... 
-- Reiluus?
-- Muna-kana ongelma
-- Yritysvastuu
+Palkkapohdintoja lukuunottamatta, yleisimpiä huomioita nousi tasaisesti sekä koodaripulaan uskovien että sen kiistävien vastaajien keskuudesta. Vastaajien toimenkuvat olivat myös monimuotoisia, joten meidän on syytä uskoa koodaripulan juurisyiden "tilannekuvan" olevan varsin jaetun toimialalla olevien ammattilaisten keskuudessa.
 
-https://yle.fi/uutiset/3-11215988
-https://www.mikrobitti.fi/uutiset/supercell-paljasti-mita-seuraavaksi-on-suunnitteilla-visio-on-pysynyt-samana/36cbdbf0-2d6a-4668-8950-ffebdd8c4f68
+Vastausten perusteella voidaan kuitenkin kyseenalaistaa tehtyjä toimenpiteitä koodaripulan helpottamiseksi ja tehdä valistuneita arvauksia, mihin tilanne on kehittymässä. Kokeneille senioridevaajille on kysyntää, mutta heillä on rajatusti insentiivejä vaihtaa hyvästä työpaikasta toiseen. On syytä uskoa, että senioridevaajamarkkina pyörii vahvasti töihinsä leipääntyneiden, työkavereidensa kanssa riitaantuneiden tai muutoin työpaikoista ulos työntävien "push" -tekijöiden varassa, kun taas hyvään työpaikkaan vetävät "pull" -tekijät ovat eri yritysten välillä usein hyvin samanlaisia.
 
-https://vierityspalkki.fi/2018/12/04/koodareista-ei-kilpailla-palkalla/
+Senioridevaajien puutteen ei voi myöskään uskoa helpottavan tulevaisuudessa, mikäli putkea junioridevaajasta konkariksi ei saada realisoitua. Tässä voidaan nähdä yritysvastuullisuuskysymyksiä, kun monet rekrytointivaikeuksista valittavat yritykset pitävät samaan aikaan yllä ekslusiivista, vain kokeneita tekijöitä sietäviä yrityskulttuureja. Se, ettei koodaajat joudu tekemään töitä kokemattomien tekijöiden kanssa voi olla osa yrityksen työntekijälupausta. Juniorityöstä ja kokemattomien opastamisesta ei palkita ja sitä saatetaan jopa haluta aktiivisesti välttää. Esimerkiksi [Supercell on tunnettu valikoivuudestaan ja halustaan pitää yrityksensä mahdollisimman pienenä][mb-supercell].
+
+Asia, jota näiden valossa kovasti toivoin aineistosta löytäväni, mutta mitä en kuitenkaan onnistunut sieltä näkemään olisi ollut vastaus siihen, ketkä varsinaisesti luovat ja ovat portinvartijoina havaittuihin kokemukseen ja täsmäosaamiseen? Vastaavia huomautuksia kokeneiden tekijöiden erityisyydestä ja kokemattomia ammattilaisia vähätteleviä kommentteja esiintyi tasaisesti eri ammattiryhmien että Kyllä- ja Ei-vastaajien keskuudessa. Kollegiaalisuudesta ohjelmistoalaa tuskin voi moittia.
+
+Artikkelin pohjana toiminut data analyyseineen ja kaavioineen on löydettävissä [tämän projektin Githubista][github-jupynotebook]. Seuraavassa artikkelissa tulemme käsittelemään kommenteista vähemmän nousseita huomioita ja mitä niistä voi oppia.
+
+[yle-konkarit]: https://yle.fi/uutiset/3-11215988 " YLE: Koodarin töihin ei pelkkä tutkinto riitä – Koodaripula tarkoittaa yhä useammin pulaa kokeneista konkareista"
+
+[mb-supercell]: https://www.mikrobitti.fi/uutiset/supercell-paljasti-mita-seuraavaksi-on-suunnitteilla-visio-on-pysynyt-samana/36cbdbf0-2d6a-4668-8950-ffebdd8c4f68 "Mikrobitti: Supercell paljasti mitä seuraavaksi on suunnitteilla – Visio on pysynyt samana"
+
+[insinoori-symbian]: https://insinoori-lehti.fi/tasta-on-kysymys/tyonantajilla-oma-vastuu-osaamisen-kehittamisesta/ "Insinööri-lehti: Työnantajilla oma vastuu osaamisen kehittämisestä"
+
+[2-it-department]: /assets/2-it-department.jpeg "Tarvitaanko devaaja vaiko kokonainen IT-osasto?"
+
+[github-jupynotebook]: https://github.com/Eeko/koodaripula.com/blob/master/datasets/2-comments_analysis-1.ipynb "Artikkelin Jupyter notebook"
+
+[vierityspalkki-palkat]:https://vierityspalkki.fi/2018/12/04/koodareista-ei-kilpailla-palkalla/ "Vierityspalkki: Koodareista ei kilpailla palkalla"
+
+[eeko-tuntihinnat]: https://www.linkedin.com/posts/eekoo_hinnoittelu-koodaripula-myynti-activity-6633315102697369600-LlKa "Eetu Korhonen: Miksi koodari maksaa vieläkin 100e/h?"
