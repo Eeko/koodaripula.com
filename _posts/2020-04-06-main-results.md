@@ -101,7 +101,7 @@ Kommenttien luokittelussa on myös havaittavissa joitain eroja "Kyllä" ja "Ei" 
 
 ### Lisätietoja
 
-Analyysin pohjana toimineen aineiston ja laskuihin käytetyt Jupyter-notebookit voi löytää tämän projektin [Githubista](https://github.com/Eeko/koodaripula.com/tree/master/datasets). Seuraavissa artikkeleissa tulemme purkamaan yksityiskohtaisemmin näkemiämme kommentteja ja niistä löytyviä teemoja.
+Analyysin pohjana toimineen aineiston ja laskuihin käytetyt Jupyter-notebookit voi löytää tämän projektin [Githubista][github-jupynotebook]. Seuraavissa artikkeleissa tulemme purkamaan yksityiskohtaisemmin näkemiämme kommentteja ja niistä löytyviä teemoja.
 
 [1-main-question-yn]: /assets/1-main-question-yn.png "62% vastaajista pitää koodaripulaa todellisena"
 
@@ -120,3 +120,5 @@ Analyysin pohjana toimineen aineiston ja laskuihin käytetyt Jupyter-notebookit 
 [1-comments-classifications-totals]: /assets/1-comments-classification-totals.png "Kommenteissa nousseet teemat ja niiden yleisyys"
 
 [1-comments-classifications-by-answers]: /assets/1-comments-classification-by-answers.png "Kommenteissa nousseet teemat vastaustyyppien mukaan"
+
+[github-jupynotebook]: https://github.com/Eeko/koodaripula.com/blob/master/datasets/1-main_analysis.ipynb "Artikkelin Jupyter notebook"
