@@ -11,19 +11,19 @@ Tutkimukseen osallistujista noin 40% jätti myös vapaaehtoisen kommentin avaten
 
 > Kasvua olisi tarjolla, jos samanlaisia osaajia, kuin jo nyt on olemassa, olisi enemmän.
 > 
->  -- Rekrytoija #252
+>  -- Rekrytoija
 
 > Pulaa on kokeneista koodareista, jotka voivat tehdä hyvin itsenäistä työtä ja auttaa junnuja.
 > 
->  -- Ohjelmistokehittäjä #144
+>  -- Ohjelmistokehittäjä
 
 > Koodareita on helvetisti, mutta kaikki haluaa parhaat. Eli pulaa on huippukoodareista
 > 
->  -- Tekninen asiantuntija #352
+>  -- Tekninen asiantuntija
 
 > Pulaa ei ole osaajista vaan pätevistä osaajista. Nuorien osaamistaso on heikko, erityisesti silloin kun uudet ja trendikkäät menetelmät/frameworkit ei ole käytössä.
 > 
-> -- Yrityksen hallinto #107
+> -- Yrityksen hallinto
 
 Yleisin kommenteissa esiintynyt huomio oli, että yritykset kaipaavat nimenomaan kannuksensa jo kerryttäneitä, kokeneita ohjelmistokehittäjiä. Yrityksestä riippuen, tämä voi tarkoittaa monia asioita aina vähäisestäkin aiemmasta työkokemuksesta nuoruusvuosien harrastuneisuuteen. "Senioridevaajan" määrittely lieneekin helpompaa tehdä sen kautta, mitä heitä suosimalla koetetaan välttää. Moni vastaaja ilmaisi, että yrityksiä pelottaa joutua aloittelevien tai muutoin heikkotasoisten ohjelmoijien kouluttajiksi, jotka sitovat yritykseltä tuottavuuttaan enemmän resursseja. Moni myös mainitsi pelkäävänsä tilannetta, missä kokemattoman kehittäjän kouluttamiseen on ensin sidottu paljon rahaa, minkä jälkeen tämä vaihtaa kokeneempana kilpailijalle töihin paremman palkan perässä.
 
@@ -39,15 +39,15 @@ Sekä "Kyllä" että "Ei" -vastanneet mainitsivat seniorikehittäjien tarpeen su
 
 > Ehkäpä kyse on vaan siitä, että yritykset eivät halua maksaa tarpeeksi => pula osaajista "sopivaan" hintaa. Sama ilmiö on arkipäivää myös toisella seuraamallani alueella, nimittäin terveydenhuollossa. Ei terveydenhuollossa ole mielestäni oikeasti sairaanhoitajapulaa, on vain pula tarpeeksi halvalla töitä tekevistä sairaanhoitajista.
 > 
-> -- Tekninen asiantuntija #157
+> -- Tekninen asiantuntija
 
 > Itseäni ohjelmistokehittäjänä ei kiinnosta tulla töihin yritykseen, joka ei tarjoa osaa omistajuudesta itselleni. Usein esimiehet, middle management ja myyjät pitävät itseään tärkeimpinä yrityksen resursseina. Itse näen asian toisin, ja pidän itseäni arvossa. En ryhdy työhön, jos minua ei kohdella inhimillisesti ja tarjota osuvaa korvausta tehdystä tuotteesta.
 > 
-> -- Ohjelmistokehittäjä #356
+> -- Ohjelmistokehittäjä
 
 > Olen alle 10 vuodessa saavuttanut devaajan maksimitulotason työntekijänä.
 > 
-> -- Ohjelmistokehittäjä #176
+> -- Ohjelmistokehittäjä
 
 28% kommentoijista mainitsivat palkka- ja kompensaatiokysymykset vastauksissaan. Kärjistäen paradoksi on seuraava: Jos koodareista on niin kova pula yrityksissä, miksi tämä ei vaikuta heijastuvan koodareiden palkkapusseihin?
 
@@ -61,27 +61,27 @@ Palkkakysymyksistä kommentoineiden koodaripulanäkemys oli koko otokseen nähde
 
 > Ohjelmistokehittäjiä kyllä löytyy, mutta suurimmalla osalla taitotaso on valitettavan alhainen.
 > 
-> -- Ohjelmistokehittäjä #186
+> -- Ohjelmistokehittäjä
 
 > Useat yritykset haluavat valmiita tekijöitä ja eivät ole valmiita kouluttamaan junnuja tekijöiksi. Mikäli otettaisiin avokätisemmin vastaan myös junnuja ja osattaisiin huolehtia heidän pysyvyydestä työpaikan viihtyvyydellä ja tehtävien monipuolisuudella ja haasteellisuuden kasvattamisella samanlaista ongelmaa ei Suomessa olisi.
 > 
-> -- Rekrytoija #62
+> -- Rekrytoija
 
 > Kukaan ei halua kouluttaa kunnolla junioreita koska ne lähtevät parempien liksojen perässä eteenpäin.
 > 
-> -- Ohjelmistokehittäjä #404
+> -- Ohjelmistokehittäjä
 
 > Rekryprosesseissa näkee, että koodareilla on vaihtoehtoja ja he voivat aika lailla valita työpaikkansa. Toki tämä koskee vain hyviä koodareita, kehnompia olisi saatavilla ja heidän on vaikeampi työllistyä.
 > 
-> -- Rekrytoija #409
+> -- Rekrytoija
 
 > Junioritason kaverin on todella hankala saada palkallisia töitä nykytilanteessa.
 > 
-> -- Ohjelmistokehittäjä #392
+> -- Ohjelmistokehittäjä
 
 > Kokeneita kehittäjiä kyllä kaivataan, mutta "koodaripula" ei ole sillä tasolla, että junnuja kuitenkaan kelpuutettaisiin. Ihan yhtä vaikea saada koulujen jälkeen jalkaa oven väliin, muuta kuin tuurilla ja/tai suhteilla.
 > 
-> -- Ohjelmistokehittäjä #400
+> -- Ohjelmistokehittäjä
 
 Kolmanneksi eniten kommenteista nousi esille huonoja uutisia koodarin ammatista haaveileville. Vasta aloittelevia koodaajia pidettiin laajalti tuottamattomina ja riskialttiina investointina yrityksille. Tämän lisäksi valiteltiin laajaa hajontaa haastateltujen kandidaattien taitotasoissa, sekä koodia ostavien asiakkaiden suvaitsemattomuutta kokemattomien kehittäjien tekemää työtä kohtaan.
 
@@ -93,15 +93,15 @@ Tuloksien perusteella vaikuttaa siltä, että juniorikehittäjistä on löydett�
 
 > Kehittäjiä on, näyttää vain siltä, että yritysten vaatimukset ovat hyvin erityisiä, sulkevat pois monet, jotka pystyisivät tekemään työn.
 > 
-> -- Ohjelmistokehittäjä #422
+> -- Ohjelmistokehittäjä
 
 > Toki todennäköinen syy tälle kokemukselle on, että työantajien odotukset vaaditusta osaamistasosta nousevat automaattisesti sellaiselle tasolle, että iso osa markkinoilla saatavissa olevista koodaajista jää riman alle.
 > 
-> -- Yrityksen hallinto #337
+> -- Yrityksen hallinto
 
 > Junnuja liikaa, halutaan usein täsmäosaajaa, ei ole aikaa kouluttaa yhtään.
 > 
-> -- Tekninen asiantuntija #38
+> -- Tekninen asiantuntija
 
 Suurin osa ohjelmistoammattilaisista lienee törmännyt työpaikkailmoituksiin, missä tekijältä vaadittu pino osattuja teknologioita on ollut kokonaisen IT-osaston pituinen tai vain pari vuotta olemassa olleesta työkalusta kaivataan vuosikymmenen kokemusta. Vale- ja hutiloitujen ilmoitusten lisäksi löytyy myös paljon työpaikkoja, missä toivottu osaamiskirjo on muodostunut liian laajaksi suurimmalle osalle tekijöistä.
 
@@ -117,15 +117,15 @@ Vastaukset antavat viitteitä siitä, että yritykset, jotka kykenevät sopeutta
 
 > Saapuvista hakemuksista vain yksi kolmestakymmenestä on varteenotettava. Muut ovat wannabe senior koodareita, joista ei tule koskaan sellaisia kehittymään. Meillä on tosin aika korkeat tasovaatimukset.
 > 
-> -- Rekrytoija #258
+> -- Rekrytoija
 
 > Haaste enemmänkin poimia oikeasti hyvät hiomattomat timantit jos jonkinnäköisten säätäjien seasta. Noin sadasta rekrystä kymmenen ollut paikkaan sopiva.
 >
-> -- Tekninen asiantuntija #109
+> -- Tekninen asiantuntija
 
 > Hitaita koodareita on tarpeeksi, mutta ne eivät ole tarpeeksi tehokkaita ansaitakseen saman palkkatason kuin hyvät koodarit.
 > 
-> -- Ohjelmistokehittäjä #320
+> -- Ohjelmistokehittäjä
 
 Viidenneksi yleisin huomio kommenteissa lienee kaikkein suorimmin ristiriidassa vallitsevan koodaripulanarratiivin kanssa. Huomionarvoista on myös, että sopimattomien ja kokemattomien ohjelmistokehittäjien suuresta määrästä kertoneista n. 74% vastasi pääkysymykseen myöntävästi. Yli 15% keskiarvoa useampi siis katsoi koodaripulan olevan tosiasian, mutta huomauttaen epäsopivista osaajista olevan ylitarjontaa. Tehtäviensä puolesta vastaajaprofiilit vastasivat varsin tasaisesti kaikkia kyselyyn vastanneita.
 
@@ -143,7 +143,9 @@ Vastausten perusteella voidaan kuitenkin kyseenalaistaa tehtyjä toimenpiteitä 
 
 Senioridevaajien puutteen ei voi myöskään uskoa helpottavan tulevaisuudessa, mikäli putkea junioridevaajasta konkariksi ei saada realisoitua. Tässä voidaan nähdä yritysvastuullisuuskysymyksiä, kun monet rekrytointivaikeuksista valittavat yritykset pitävät samaan aikaan yllä eksklusiivista, vain kokeneita tekijöitä sietäviä yrityskulttuureja. Se, ettei koodaajat joudu tekemään töitä kokemattomien tekijöiden kanssa voi olla osa yrityksen työntekijälupausta. Juniorityöstä ja kokemattomien opastamisesta ei palkita ja sitä saatetaan jopa haluta aktiivisesti välttää. Esimerkiksi [Supercell on tunnettu valikoivuudestaan ja halustaan pitää yrityksensä mahdollisimman pienenä ja vain parhaista tekijöistä koostuvana][aalto-supercell].
 
-Asia, jota näiden valossa kovasti toivoin aineistosta löytäväni, mutta mitä en kuitenkaan onnistunut sieltä näkemään olisi ollut vastaus siihen, ketkä varsinaisesti luovat ja ovat portinvartijoina havaittuihin kokemukseen ja täsmäosaamiseen? Vastaavia huomautuksia kokeneiden tekijöiden erityisyydestä ja kokemattomia ammattilaisia vähätteleviä kommentteja esiintyi tasaisesti eri ammattiryhmien että Kyllä- ja Ei-vastaajien keskuudessa. Kollegiaalisuudesta ohjelmistoalaa tuskin voi moittia.
+Koska pullonkaula vaikuttaa löytyvän nimenomaan ensityöpaikkojen vähyydessä, on myös aihetta kyseenalaistaa hankkeet koodarimäärien lisäämisestä ohjelmointikoulutusta lisäämällä. Yksikään korkeakoulu ei pysty tuottamaan vuosien työkokemuksen omaavaa senioridevaajaa. Oli markkinoilla tuhansien koodarien kokoinen koodaripulaa tai ei, tuhansien uusien ohjelmoijien kouluttaminen voi tällöin johtaa alalle pyrkiville lukemattomien opiskeluvuosien ja eurojen hukkainvestointeja.
+
+Asia, jota näiden valossa kovasti toivoin aineistosta löytäväni, mutta mitä en kuitenkaan onnistunut sieltä näkemään olisi ollut vastaus siihen, ketkä varsinaisesti luovat ja ovat portinvartijoina havaittuihin kokemukseen ja täsmäosaamiseen? Vastaavia huomautuksia kokeneiden tekijöiden erityisyydestä ja toisia ammattilaisia vähätteleviä kommentteja esiintyi tasaisesti eri ammattiryhmien että Kyllä- ja Ei-vastaajien keskuudessa. Kollegiaalisuudesta ohjelmistoalaa tuskin voi moittia.
 
 ### Lisätietoja
 
