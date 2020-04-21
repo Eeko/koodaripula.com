@@ -24,4 +24,5 @@ All content, [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), Eetu Kor
 Special thanks for [Elja-Ilari Suhonen](https://www.linkedin.com/in/eljasuhonen/) for helping with analyzing the data.
 
 If you like this work, consider donating with [Bitcoin](bitcoin:1JNntiCWktjNxdTit7KPBgKkEd1Sof8cJF)
+
 ![bitcoin:1JNntiCWktjNxdTit7KPBgKkEd1Sof8cJF](/assets/bitcoin-qr.png "bitcoin:1JNntiCWktjNxdTit7KPBgKkEd1Sof8cJF")
