@@ -102,7 +102,7 @@ Neljä vastaajaa katsoi tarpeelliseksi myös kritisoida kysymyksenasettelua. Toi
 
 Hyvin yllättävästi, yksikään kyselyyn vastaajista ei maininnut IT-alan epätasaista sukupuolijakaumaa kommenteissaan. Suomessa vain 23% IT-alan työntekijöistä on naisia, eikä tilanne ole tyypillisesti sen tasaisempi muuallakaan maailmassa. Tämän epäsuhdan korjaaminen on kiistatta "matalimpia hedelmiä" alan osaajamäärän kasvattamiseksi, mutta vastaajiamme tämä ei vaikuttanut huolestuttavan.
 
-Myöskään toinen juhlapuheissa yleinen mantra työn merkityksellisyydestä ei noussut näkemissämme pohdinnoissa esille.
+Myöskään toinen juhlapuheissa yleinen mantra työn merkityksellisyyden tarpeesta, vuoden 2019 lopulla käyty keskustelu ulkomaisten osaajien työlupien hitaudesta taikka pointit (avo)konttoriolojen houkuttelevuudesta ja tarkoituksenmukaisuudesta eivät näkyneet kommenteissa, vaikka muissa näkemissäni aihepiirin keskusteluissa nämä ovat usein olleet pinnalla.
 
 ### Lisätietoja
 
