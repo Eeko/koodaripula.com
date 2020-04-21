@@ -5,6 +5,11 @@ description: Koodaripula.com 2020 kyselytutkimuksen päähavainnot
 published: false
 ---
 
+Tämä on koodaripulakyselyn tulosanalyysin ensimmäin osa. Muut osat löytyvät täältä:
+
+Osa 2: [Miksi koodareista on pulaa?][koodaripula-osa-2]
+Osa 3: [Mitä muuta pulatilanteesta havaittiin?][koodaripula-osa-3]
+
 ## Tutkimuksesta lyhyesti
 
 Vuoden 2020 alussa minua oli vaivannut Suomessa käytävä työmarkkinakeskustelu. Tarkasti ottaen se osuus, missä eri yritysten, heidän edunvalvojansa ja edustajiensa puheet aiheesta vaikuttivat olevan hyvin ristiriidassa sen kanssa, miten itse olin rekrymarkkinat kokenut ja miten niistä keskusteltiin omissa, yleensä rekrytoinnin kohteena olevissa asiantuntijavoittoisissa someissa.
@@ -101,7 +106,7 @@ Kommenttien luokittelussa on myös havaittavissa joitain eroja "Kyllä" ja "Ei" 
 
 ### Lisätietoja
 
-Analyysin pohjana toimineen aineiston ja laskuihin käytetyt Jupyter-notebookit voi löytää tämän projektin [Githubista][github-jupynotebook]. Seuraavissa artikkeleissa tulemme purkamaan yksityiskohtaisemmin näkemiämme kommentteja ja niistä löytyviä teemoja.
+Analyysin pohjana toimineen aineiston ja laskuihin käytetyt Jupyter-notebookit voi löytää tämän projektin [Githubista][github-jupynotebook]. Tämä on kyselyn tulosanalyysisarjan ensimmäinen osa. Seuraavissa artikkeleissa tulemme purkamaan yksityiskohtaisemmin näkemiämme kommentteja ja niistä löytyviä teemoja. Seuraavaksi suosittelemme lukemaan osan 2: [Miksi koodareista on pulaa?][koodaripula-osa-2]
 
 [1-main-question-yn]: /assets/1-main-question-yn.png "62% vastaajista pitää koodaripulaa todellisena"
 
@@ -122,3 +127,9 @@ Analyysin pohjana toimineen aineiston ja laskuihin käytetyt Jupyter-notebookit 
 [1-comments-classifications-by-answers]: /assets/1-comments-classification-by-answers.png "Kommenteissa nousseet teemat vastaustyyppien mukaan"
 
 [github-jupynotebook]: https://github.com/Eeko/koodaripula.com/blob/master/datasets/1-main_analysis.ipynb "Artikkelin Jupyter notebook"
+
+[koodaripula-osa-1]: /2020/04/06/main-results.html "Artikkelisarjan ensimmäinen osa"
+
+[koodaripula-osa-2]: /2020/04/18/comment-analysis-1.html "Artikkelisarjan toinen osa"
+
+[koodaripula-osa-3]: /2020/04/21/comment-analysis-2.html "Artikkelisarjan kolmas osa"

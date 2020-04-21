@@ -5,6 +5,11 @@ description: Koodaripula.com 2020 kyselytutkimuksen kommenttien analyysi - osa 1
 published: false
 ---
 
+Tämä on koodaripulakyselyn tulosanalyysin toinen osa. Muut osat löytyvät täältä:
+
+Osa 1: [Koodaripulakyselyn päähavainnot][koodaripula-osa-1]
+Osa 3: [Mitä muuta pulatilanteesta havaittiin?][koodaripula-osa-3]
+
 Tutkimukseen osallistujista noin 40% jätti myös vapaaehtoisen kommentin avaten perusteluitaan ja näkemyksiään vastauksien takana. 176 luokitellun kommentin takaa on havaittavissa useita selkeitä yhteneväisyyksiä, joiden voi katsoa edustavan ammattikunnan jaettuja käsityksiä koetun pulatilan taustoista ja antavan johtolankoja sen purkamiseen. Tässä artikkelissa pureudumme viiteen yleisimpään aiheeseen, mitä vapaissa kommenteissa nousi.
 
 ### Koodaripula koskee nimenomaan kokeneita senioridevaajia
@@ -149,7 +154,7 @@ Asia, jota näiden valossa kovasti toivoin aineistosta löytäväni, mutta mitä
 
 ### Lisätietoja
 
-Artikkelin pohjana toiminut data analyyseineen ja kaavioineen on löydettävissä [tämän projektin Githubista][github-jupynotebook]. Seuraavassa artikkelissa tulemme käsittelemään kommenteista vähemmän nousseita huomioita ja mitä niistä voi oppia.
+Artikkelin pohjana toiminut data analyyseineen ja kaavioineen on löydettävissä [tämän projektin Githubista][github-jupynotebook]. Seuraavassa artikkelissa tulemme käsittelemään kommenteista vähemmän nousseita huomioita ja mitä niistä voi oppia. [Kolmannen osan voi löytää täältä][koodaripula-osa-3]
 
 [yle-konkarit]: https://yle.fi/uutiset/3-11215988 " YLE: Koodarin töihin ei pelkkä tutkinto riitä – Koodaripula tarkoittaa yhä useammin pulaa kokeneista konkareista"
 
@@ -164,3 +169,9 @@ Artikkelin pohjana toiminut data analyyseineen ja kaavioineen on löydettäviss�
 [vierityspalkki-palkat]:https://vierityspalkki.fi/2018/12/04/koodareista-ei-kilpailla-palkalla/ "Vierityspalkki: Koodareista ei kilpailla palkalla"
 
 [eeko-tuntihinnat]: https://www.linkedin.com/posts/eekoo_hinnoittelu-koodaripula-myynti-activity-6633315102697369600-LlKa "Eetu Korhonen: Miksi koodari maksaa vieläkin 100e/h?"
+
+[koodaripula-osa-1]: /2020/04/06/main-results.html "Artikkelisarjan ensimmäinen osa"
+
+[koodaripula-osa-2]: /2020/04/18/comment-analysis-1.html "Artikkelisarjan toinen osa"
+
+[koodaripula-osa-3]: /2020/04/21/comment-analysis-2.html "Artikkelisarjan kolmas osa"

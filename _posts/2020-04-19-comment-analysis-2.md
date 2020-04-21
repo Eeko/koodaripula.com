@@ -5,15 +5,26 @@ description: Koodaripula.com 2020 kyselytutkimuksen kommenttien analyysi - osa 2
 published: false
 ---
 
-Aiemmassa artikkelissa käsittelemämme viiden ydinteeman lisäksi saamissamme kommenteissa oli tunnistettavissa lukuisia muita useissa viesteissä näkyviä, mutta harvinaisempia teemoja. Monien kohdalla näiden harvinaisuus on itsessään mielenkiintoista, sillä julkisessa keskustelussa esimerkiksi kansainvälisen työvoiman rekrytointihaasteet ovat esiintyneet paljon aktiivisemmin, kuin aineistomme antaa aihetta. Harvinaisemmat pointit edustavat usein myös valtavirrasta poikkeavia näkemyksiä, joiden avulla saatamme pystyä löytämään vielä toistaiseksi vähän tunnettuja keinoja lähestyä ja ratkaista ongelmaa. Käsittelemme myös hieman asioita, joita emme odotuksiemme vastaisesti havainneet aineistosta.
+Tämä on koodaripulakyselyn tulosanalyysin kolmas osa. Aiemmat osat löytyvät täältä:
 
-### Kehnot työtavat saattavat johtaa ylimääräiseen työhön
+Osa 1: [Koodaripulakyselyn päähavainnot][koodaripula-osa-1]
+Osa 2: [Miksi koodareista on pulaa?][koodaripula-osa-2]
+
+Aiemmassa artikkelissa käsittelemämme viiden ydinteeman lisäksi saamissamme kommenteissa oli tunnistettavissa lukuisia muita useissa viesteissä näkyviä, mutta harvinaisempia teemoja. Monien kohdalla näiden harvinaisuus on itsessään mielenkiintoista, sillä julkisessa keskustelussa esimerkiksi kansainvälisen työvoiman rekrytointihaasteet ovat esiintyneet paljon aktiivisemmin, kuin aineistomme antaa aihetta. Harvinaisemmat pointit edustavat usein myös valtavirrasta poikkeavia näkemyksiä, joiden avulla saatamme pystyä löytämään vielä toistaiseksi heikommin tunnettuja keinoja lähestyä ongelmaa. Käsittelemme myös hieman asioita, joita emme odotuksiemme vastaisesti havainneet aineistosta.
+
+### Kehnot työtavat ja laatuvelka saattavat johtaa vältettävissä olevaan työhön
 
 > Tilaajat eivät tiedä (tai eivät osaa speksata) mitä haluavat, jolloin samat asiat soudetaan ja huovataan uudestaan ja uudestaan läpi.
 > 
 > -- Tekninen asiantuntija
 
+> Pulaa tekijöistä ei ole, työn laatu vaan on huono, josta seuraa, että työtä syntyy lisää.
+> 
+> -- Tekninen asiantuntija
+
 Yli 10% kommentoijista ilmaisi eri tavoin turhautumista kohtaamiinsa työtapoihin ja alan käytäntöihin, jotka ovat omiaan lisäämään työvoiman tarvetta. Mikäli työ olisi järjestetty fiksummin, selviäisi vähemmällä työllä. Kitkaa tuottivat mm. asiakkaiden kokemattomuus IT-hankinnoissa, huono johtaminen, liian monien vastuiden ulottaminen tekniselle henkilökunnalle ja ikuisesti käytettyihin työtapoihin luutuminen.
+
+Muutama vastaaja nimesi myös erikseen ohjelmistojen laatuongelmat juurisyiksi kokemukselle koodaripulasta. Sanonta "köyhällä ei ole varaa ostaa halpaa" vaikuttaa pätevän ohjelmistomarkkinoilla. Näiden vastaajien mukaan panostamalla laatuun ostajat saattaisivat voida säästää korjauskustannuksissa.
 
 ### Keskustelu koodaripulasta ei toimi
 
@@ -63,16 +74,44 @@ Tyypillinen syy millä pääkaupunkikeskeisyyttä usein perustellaan on asiakkai
 
 ### On myös töitä, jotka eivät saa hakijoita ja hakijoita, jotka eivät löydä töitä
 
+> Emme ole saaneet aikaan haastatteluja, mutta aunakin osittain ongelma varmaankin on ilmoituksissamme ja rekryprosessissa yleensä.
 >
->
->
+> -- Ohjelmistokehittäjä
 
-Siinä missä monet kyselyyn vastaajista raportoivat
+> Olen keväällä hakenut koodaripaikkaa 3 vuoden työkokemuksella, mutta kokeneemmat vie aina paikan. Vaikka työnantajat työilmoituksessa antavat ymmärtää hakevansa 1-3 -vuoden kokemuksella eli junior/perustason osaajaa, niin samoihin tehtäviin hakee myös seniorimmat vieden nämä paikat. 
+> 
+> -- Ohjelmistokehittäjä
 
-### Yhteenveto
+Headhunterien ahdistelun ja hakemusvyöryjen vastapainoksi kyselyyn vastasivat myös muutamat, jotka olivat kohdanneet vaikeuksia työn saamisessa, kuin myös yrityksiä jotka eivät saa edes hakemuksia vaikka halua palkata olisi. Erot näkyvyydessä ja osaamisprofiileissa voivat tuottaa matteus-vaikutusta, missä työhakemukset että työtarjoukset keskittyvät vinoutuneesti harvemmille kuin olisi tarkoituksenmukaista. Osaajien ja töiden etsiminen paikoista mitä muut ylenkatsovat voi olla näissä tilanteissa aiheellista. Lisäksi voi uskoa, että ulkopuolisille palveluille näkyvyyden lisäämiseksi tai osaamisen kaupallistamiseksi voi olla kysyntää.
 
+### Tylsätkin työt tarvitsevat tekijänsä
+
+> Projekteissa kynnetään niin syvällä legacy-suossa, että on turha yrittääkään saada ketään nuoria osaajia mukaan, vaikka toimistolla olisi kuinka monta pingispöytää tahansa.
+> 
+> -- Ohjelmistokehittäjä
+
+Muutama vastaaja huomautti myös itse työtehtävien luonteen vaikuttavan rekrytointeihin. Ohjelmistokehittäjillä on monia syitä karttaa esimerkiksi vanhojen teknologioiden kanssa tehtävää työtä. Kypsien, moderneja työkaluja heikomman ilmaisuvoiman omaavien kielten kanssa työ on vaikeampaa, turhauttavampaa, yhteisön tuki on tyypillisesti vähäistä ja kehittäjä joutuu ottamaan merkittävän riskin osaamisen vanhentumisesta mikäli esoteeriselle työmaalle tapahtuu jotain. Niin Symbian- kuin Windows Phone -ekosysteemien romahtaminen ja osaamisen jääminen tyhjän päälle on varsin tuore muisto Suomen IT-kentässä.
+
+Harvinaisten järjestelmien tuen tarve ei kuitenkaan liiku kehittäjien mielenkiinnon mukana. Nämäkin työt tarvitsevat tekijöitä ja olisi kaikkien kannalta edullista miettiä, kuinka työstä voisi tehdä houkuttelevampaa. Osin kyseessä on kyse perspektiiveistä. Nuoria, kokemattomia koodareita usein pelotellaan tarinoilla kamalasta legacykoodista, jota tuhmat koodarit joutuvat ylläpitämään elleivät kuuntele kokeneempien viisauksia. On varsin yleistä, että kärkkäimpiä mielipiteitä Enterprise Javasta jakavat ihmiset, jotka eivät ole eläessään koodanneet riviäkään Javaa. Lisäksi ohjelmoijien houkutteluun voi uskoa auttavan työkalujen luominen urariskien hallintaan. Esimerkiksi pitkät projektisopimukset etumaksuineen, urallisen umpikujan rajaaminen toissijaiseksi toimeksiannoksi, anteliaat koulutusbudjetit sekä läpinäkyvästi ja julkisesti rouheammat palkkiot tulee nopeasti mieleen.
+
+### Ihan paska kysely, tee uusi
+
+Neljä vastaajaa katsoi tarpeelliseksi myös kritisoida kysymyksenasettelua. Toimitus kiittää palautteesta ja yrittää tehdä ensi kerralla paremmin.
+
+### Mitä emme nähneet?
+
+Hyvin yllättävästi, yksikään kyselyyn vastaajista ei maininnut IT-alan epätasaista sukupuolijakaumaa kommenteissaan. Suomessa vain 23% IT-alan työntekijöistä on naisia, eikä tilanne ole tyypillisesti sen tasaisempi muuallakaan maailmassa. Tämän epäsuhdan korjaaminen on kiistatta "matalimpia hedelmiä" alan osaajamäärän kasvattamiseksi, mutta vastaajiamme tämä ei vaikuttanut huolestuttavan.
+
+Myöskään toinen juhlapuheissa yleinen mantra työn merkityksellisyydestä ei noussut näkemissämme pohdinnoissa esille.
 
 ### Lisätietoja
 
+Tämänkin analyysin pohjana toimineen aineiston ja laskuihin käytetyt Jupyter-notebookit voi löytää tämän projektin [Githubista][github-jupynotebook].
 
-[example]: https://example.com "example.com"
+[github-jupynotebook]: https://github.com/Eeko/koodaripula.com/blob/master/datasets/3-comment_analysis-2.ipynb "Artikkelin Jupyter notebook"
+
+[koodaripula-osa-1]: /2020/04/06/main-results.html "Artikkelisarjan ensimmäinen osa"
+
+[koodaripula-osa-2]: /2020/04/18/comment-analysis-1.html "Artikkelisarjan toinen osa"
+
+[koodaripula-osa-3]: /2020/04/21/comment-analysis-2.html "Artikkelisarjan kolmas osa"
