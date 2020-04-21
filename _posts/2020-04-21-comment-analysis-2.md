@@ -2,7 +2,7 @@
 layout: post
 title: Mitä muuta pulatilanteesta havaittiin?
 description: Koodaripula.com 2020 kyselytutkimuksen kommenttien analyysi - osa 2
-published: false
+published: true
 ---
 
 Tämä on koodaripulakyselyn tulosanalyysin kolmas osa. Aiemmat osat löytyvät täältä:

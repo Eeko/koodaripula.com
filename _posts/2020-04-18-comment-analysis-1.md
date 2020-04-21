@@ -2,7 +2,7 @@
 layout: post
 title: Miksi koodareista on pulaa?
 description: Koodaripula.com 2020 kyselytutkimuksen kommenttien analyysi - osa 1
-published: false
+published: true
 ---
 
 Tämä on koodaripulakyselyn tulosanalyysin toinen osa. Muut osat löytyvät täältä:
