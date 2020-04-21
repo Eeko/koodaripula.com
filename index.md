@@ -13,4 +13,4 @@ Toivottavasti koette sisällön teille hyödylliseksi. Kysymyksiä, palautetta j
 
 Suosittelemme aloittamaan aineistoon tutustumisen artikkelisarjan ensimmäisestä osasta:
 
-Osa 1: [Koodaripulakyselyn päähavainnot][/2020/04/06/main-results.html]
+## Osa 1: [Koodaripulakyselyn päähavainnot](/2020/04/06/main-results.html)
