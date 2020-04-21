@@ -11,6 +11,6 @@ Sivuston alkusysäyksenä toimi maaliskuussa 2020 tekemäni pienimuotoinen kysel
 
 Toivottavasti koette sisällön teille hyödylliseksi. Kysymyksiä, palautetta ja parannusehdotuksia minulle voi lähettää esim. Twitterissä kautta sivuston alalaidasta löytyvien somelinkkien avulla.
 
-Suosittelemme aloittamaan artikkelisarjan ensimmäisestä osasta:
+Suosittelemme aloittamaan aineistoon tutustumisen artikkelisarjan ensimmäisestä osasta:
 
-# Osa 1: [Koodaripulakyselyn päähavainnot][/2020/04/06/main-results.html]
+Osa 1: [Koodaripulakyselyn päähavainnot][/2020/04/06/main-results.html]
