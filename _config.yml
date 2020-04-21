@@ -14,6 +14,7 @@ header_pages:
 
 plugins:
  - jekyll-feed
+ - jekyll-sitemap
 
 minima:
   date_format: "%b %-d, %Y"
