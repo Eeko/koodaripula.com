@@ -5,7 +5,7 @@ description: Koodaripula.com 2020 kyselytutkimuksen päähavainnot
 published: true
 ---
 
-Tämä on koodaripulakyselyn tulosanalyysin ensimmäin osa. Muut osat löytyvät täältä:
+Tämä on koodaripulakyselyn tulosanalyysin ensimmäinen osa. Muut osat löytyvät täältä:
 
 Osa 2: [Miksi koodareista on pulaa?][koodaripula-osa-2]
 Osa 3: [Mitä muuta pulatilanteesta havaittiin?][koodaripula-osa-3]
