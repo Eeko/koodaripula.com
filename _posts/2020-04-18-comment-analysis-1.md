@@ -62,6 +62,8 @@ Vaikka pitäisi koodarien yleistä ansiotasoa kelvollisena, palkkojen yhtenevyys
 
 Palkkakysymyksistä kommentoineiden koodaripulanäkemys oli koko otokseen nähden päinvastainen. Suurin osa kiisti koodaripulan olemassaolon, vaikkakin noin kolmannes heistäkin vastasi pääkysymykseen "Kyllä." Lisäksi tämä osajoukko koostui liki yksinomaan ohjelmoijista ja muista teknisistä asiantuntijoista. Yksikään rekrytoija saati yritykseen johtoon tai hallintoon kuulunut ei maininnut palkkakysymyksiä kommenteissaan. Tämä viittaisi siihen, että Suomen devaajamarkkinoilta löytyy merkittävästi väkeä, joita kiinnostavat mahdollisuudet ulosmitata osaamisensa kysyntää taloudellisesti nykyistä enemmän. Vastaavasti ei-teknisissä tehtävissä toimivat eivät pidä palkkoja ongelmana tai mahdollisesti vain halua keskustella palkoista.
 
+Monet meistä kokevat rahasta puhumisen kiusallisena ja taloudellisia insentiivejä tyypillisesti vähätellään kun ihmiset puhuvat itsestään, yrityksistään ja motivaatioistaan. Työhaastattelussa pärjää usein paremmin puhumalla kutsumuksesta ja taiteellisesta kunnianhimosta, kun taas anonyymissä kyselytutkimuksessa vastaajat uskaltavat puhua myös tuhmasti rahasta.
+
 ### Aloittelijoilta puuttuvat väylät alalle siirtymiseen
 
 > Ohjelmistokehittäjiä kyllä löytyy, mutta suurimmalla osalla taitotaso on valitettavan alhainen.
