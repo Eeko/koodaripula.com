@@ -10,7 +10,7 @@ Tämä on koodaripulakyselyn tulosanalyysin kolmas osa. Aiemmat osat löytyvät 
 Osa 1: [Koodaripulakyselyn päähavainnot][koodaripula-osa-1]
 Osa 2: [Miksi koodareista on pulaa?][koodaripula-osa-2]
 
-Aiemmassa artikkelissa käsittelemämme viiden ydinteeman lisäksi saamissamme kommenteissa oli tunnistettavissa lukuisia muita useissa viesteissä näkyviä, mutta harvinaisempia teemoja. Monien kohdalla näiden harvinaisuus on itsessään mielenkiintoista, sillä julkisessa keskustelussa esimerkiksi kansainvälisen työvoiman rekrytointihaasteet ovat esiintyneet paljon aktiivisemmin, kuin aineistomme antaa aihetta. Harvinaisemmat pointit edustavat usein myös valtavirrasta poikkeavia näkemyksiä, joiden avulla saatamme pystyä löytämään vielä toistaiseksi heikommin tunnettuja keinoja lähestyä ongelmaa. Käsittelemme myös hieman asioita, joita emme odotuksiemme vastaisesti havainneet aineistosta.
+Aiemmassa artikkelissa käsittelemiemme viiden ydinteeman lisäksi kommenteissa oli tunnistettavissa lukuisia muita yhteisi, mutta selvästi harvinaisempia teemoja. Monien kohdalla näiden harvinaisuus on itsessään mielenkiintoista, sillä julkisessa keskustelussa esimerkiksi kansainvälisen työvoiman rekrytointihaasteet ovat esiintyneet paljon aktiivisemmin, kuin näkemissämme vastauksissa. Harvinaisemmat pointit edustavat usein myös valtavirrasta poikkeavia näkemyksiä, joiden avulla saatamme pystyä löytämään vielä toistaiseksi heikommin tunnettuja keinoja ymmärtää ongelmaa. Tulosraportin viimeisessä osassa käsittelemme myös hieman teemoja, joita emme odotuksiemme vastaisesti havainneet aineistosta.
 
 ### Kehnot työtavat ja laatuvelka saattavat johtaa vältettävissä olevaan työhön
 
@@ -22,9 +22,11 @@ Aiemmassa artikkelissa käsittelemämme viiden ydinteeman lisäksi saamissamme k
 > 
 > -- Tekninen asiantuntija
 
-Yli 10% kommentoijista ilmaisi eri tavoin turhautumista kohtaamiinsa työtapoihin ja alan käytäntöihin, jotka ovat omiaan lisäämään työvoiman tarvetta. Mikäli työ olisi järjestetty fiksummin, selviäisi vähemmällä työllä. Kitkaa tuottivat mm. asiakkaiden kokemattomuus IT-hankinnoissa, huono johtaminen, liian monien vastuiden ulottaminen tekniselle henkilökunnalle ja ikuisesti käytettyihin työtapoihin luutuminen.
+Yli 10% kommentoijista ilmaisi eri tavoin turhautumista kohtaamiinsa työtapoihin ja alan käytäntöihin. Nämä ovat omiaan lisäämään työvoiman tarvetta tarpeettomasti. Mikäli työ järjestettäisiin fiksummin, selviäisi vähemmällä vaivalla. Kitkaa vastaajille on tuottanut mm. asiakkaiden kokemattomuus IT-hankinnoissa, huono johtaminen, liian monien vastuiden ulottaminen tekniselle henkilökunnalle sekä ikuisesti käytettyihin työtapoihin luutuminen. 
 
-Muutama vastaaja nimesi myös erikseen ohjelmistojen laatuongelmat juurisyiksi kokemukselle koodaripulasta. Sanonta "köyhällä ei ole varaa ostaa halpaa" vaikuttaa pätevän ohjelmistomarkkinoilla. Näiden vastaajien mukaan panostamalla laatuun ostajat saattaisivat voida säästää korjauskustannuksissa.
+Esimerkiksi työtapojen hyväksyntä saattaa vaatia raskaan hyväksyntäprosessin, missä pullonkaulana toimivat päättäjät saattavat olla vaikeasti saavutettavissa. Tämän kaltaisessa tilanteessa prosessia ketteröittämällä voi lisätuottavuutta saavuttaa työtä vähentämällä työväen lisäämisen sijaan.
+
+Muutama vastaaja nimesi myös erikseen ohjelmistojen laatuongelmat juurisyiksi kokemukselle koodaripulasta. Mikäli huonosti tehty työ tuottaa paljon korjausvelkaa, sen maksaminen vaatii paljon lisäresursseja. Sanonta "köyhällä ei ole varaa ostaa halpaa" vaikuttaa pätevän ohjelmistomarkkinoilla.
 
 ### Keskustelu koodaripulasta ei toimi
 
@@ -32,19 +34,27 @@ Muutama vastaaja nimesi myös erikseen ohjelmistojen laatuongelmat juurisyiksi k
 > 
 > -- Ohjelmistokehittäjä
 
-11 kommentoijaa 176:sta ihmetteli kommenteissaan koodaripulan ympärillä käytävää media- ja kansalaiskeskustelua. Julkisia puheenvuoroja pidettiin harhaanjohtavina, vastuuttomina ja liiketoiminnan kannalta haitallisena. Epäiltiin sitä, että ohjelmistokehittäjät haluavat ruokkia narratiivia nostaakseen omia kompensaatioitaan tai että ehkäpä yritykset koettavat hillitä kustannuksiaan lobbaamalla lisää koulutusmääriä että edullisen siirtotyövoiman määrää? Puhuttiin myös diskurssin tuottamasta markkinavääristymästä, missä sellainen osaamistarjonta jota ei tarvita on voimakkaasti lisääntynyt ja kaivattuja senioridevaajia on entistäkin vaikeampi houkutella riveihin.
+11 kommentoijaa 176:sta ihmetteli kommenteissaan koodaripulan ympärillä käytävää media- ja kansalaiskeskustelua. Julkisia puheenvuoroja pidettiin harhaanjohtavina, vastuuttomina ja liiketoiminnan kannalta haitallisena. Epäiltiin sitä, että ohjelmistokehittäjät haluavat ruokkia narratiivia nostaakseen omia kompensaatioitaan, kuin myös sitä, että ehkäpä yritykset koettavat hillitä kustannuksiaan lobbaamalla lisää koulutusmääriä että edullisen siirtotyövoiman määrää? 
+
+Puhuttiin myös diskurssin tuottamasta markkinavääristymästä, missä osaamistarjonta jota ei tarvita on lisääntynyt. Kaivattuja senioridevaajia on entistäkin vaikeampi houkutella ja sitouttaa riveihin.
 
 ### Harva puhui kansainvälisistä osaajista ja heidän rekrytoinnistaan
 
-> Todellisia osaajia ei myöskään näillä Suomen palkoilla saada koskaan houkuteltua muista maista merkittäviä määriä.
+> Todellisia osaajia ei näillä Suomen palkoilla saada koskaan houkuteltua muista maista merkittäviä määriä.
 > 
 > -- Ohjelmistokehittäjä
 
-> Suomesta on todella vaikea saada moniin tehtäviin palkattua osaavia ihmisiä ja varsinkin jos tarve on pks ulkopuolella niin voi olla jopa täysin mahdotonta saada todella osaavia.
+> Suomesta on todella vaikea saada moniin tehtäviin palkattua osaavia ihmisiä. Varsinkin jos tarve on pks ulkopuolella niin voi olla jopa täysin mahdotonta saada todella osaavia.
 > 
 > -- Tekninen asiantuntija
 
-Koulutusmäärien lisäämisen ohella luultavasti toiseksi eniten "koodaripulan ratkaisuksi" esitetty toimenpide on kansainvälisten osaajien houkuttelu ja rekrytointi Suomeen. Aineistosta löytyi kuitenkin vain 9 kommenttia, missä pohdittiin kansainvälisen työvoiman roolia ja rekrytointia. Koska kysely kerättiin suomeksi ja vastaajat olivat pääosin alalla suorittavaa työtä tekeviä, tämä voi paljolti johtua siitä ettei aihepiiri ollut heille kovin tuttu tai relevantti. Niissä kommenteista, mitä aineistossa kuitenkin oli, enimmäkseen epäiltiin Suomen houkuttelevuutta kansainvälisesti liikkuvan työvoiman silmissä että murehdittiin, miten joidenkin hyvin erityisten osaamisalojen tekijöiden löytäminen Suomen kokoisesta väestöstä on käytännössä mahdotonta.
+Koulutusmäärien lisäämisen ohella luultavasti toiseksi eniten "koodaripulan ratkaisuksi" esitetty toimenpide on kansainvälisten osaajien houkuttelu ja rekrytointi Suomeen. Aineistosta löytyi kuitenkin vain 9 kommenttia, missä pohdittiin kansainvälisen työvoiman roolia ja rekrytointia. 
+
+Koska kysely kerättiin suomeksi ja vastaajat olivat pääosin alalla suorittavaa työtä tekeviä, tämä voi paljolti johtua siitä ettei aihepiiri ollut heille relevantti.
+
+Niissä kommenteista, mitä aineistossa kuitenkin oli, enimmäkseen epäiltiin Suomen houkuttelevuutta kansainvälisesti liikkuvan työvoiman silmissä että murehdittiin, miten joidenkin hyvin erityisten osaamisalojen tekijöiden löytäminen Suomen kokoisesta väestöstä on käytännössä mahdotonta.
+
+Maassa jo olevan kansainvälisen työvoiman rekrytoinneista aineistossa ei puhuttu.
 
 ### Koodareiden sitouttaminen ja headhunterien aktiivisuus askarruttivat
 
@@ -56,7 +66,7 @@ Koulutusmäärien lisäämisen ohella luultavasti toiseksi eniten "koodaripulan 
 > 
 > -- Ohjelmistokehittäjä
 
-Kahdeksan vastaajaa mainitsi viestissään ohjelmoijien sitouttamisen askarruttavan. Heistä jokainen myös vastasi pääkysymykseen myöntävästi. Vastaavasti 7 vastaajaa huomautti todistaneensa headhunterien erityistä aktiivisuutta. Tämänkaltaisten vastausten määrä ei ole valtava, mutta selvästi monia toimijoita alalla ahdistaa joutua työväen kouluttamisessa maksumiehen rooliin kilpailijoiden houkutellessa heidän kouluttamansa tekijät palkitsevampiin tehtäviin. IT-yritykset pelaavat työvoimaista Mustaa Pekkaa, missä kukaan ei kaipaa käteensä koulutusta kaipaavaa junnudevaajaa.
+Kahdeksaa vastaajaa askarrutti ohjelmoijien sitouttaminen. Heistä jokainen myös vastasi pääkysymykseen myöntävästi. Seitsemän vastaajaa huomautti todistaneensa headhunterien erityistä aktiivisuutta. Tämänkaltaisten vastausten määrä ei ole valtava, mutta selvästi monia toimijoita alalla pelottaa joutua työväkeä kouluttavaksi maksumieheksi kilpailijoiden anastaessa heidän kouluttamansa tekijät palkitsevampiin tehtäviin. Monet IT-yritykset kokevat pelaavansa työvoimaista Mustaa Pekkaa, missä kukaan ei kaipaa käteensä koulutettavaa junnudevaajaa.
 
 ### Koodaajat haluavat asua myös isojen kaupunkien ulkopuolella
 
@@ -68,9 +78,11 @@ Kahdeksan vastaajaa mainitsi viestissään ohjelmoijien sitouttamisen askarrutta
 > 
 > -- Tekninen asiantuntija
 
-Suomalaisista noin 30% asuu kaupunkien ulkopuolella ja pääkaupunkiseudun ulkopuolella noin neljä viidennestä. Suomen IT-työ on kuitenkin vastaajien mukaan keskittynyt lähinnä pääkaupunkiseudulle. Voi hyvinkin olla, että suuri osa Suomen koodityövoimasta on joko vastahakoisesti joutunut muuttamaan alueille, missä he eivät muutoin haluaisi asua tai piileskelevät etäkonttoreissa. Yritykset, jotka kykenevät järjestämään osaajille kilpailukykyisiä töitä sijainnista riippumatta, taikka hyväksikäyttämään alihyödynnettyjä osaajakeskittymiä voisivat tällä keinoin saavuttaa osaajakilpailuetua.
+Suomalaisista noin 30% asuu kaupunkien ulkopuolella. Pääkaupunkiseudun ulkopuolella noin neljä viidennestä. Suomen IT-työ on kuitenkin ainakin vastaajien mukaan keskittynyt lähinnä pääkaupunkiseudulle. Voi hyvinkin olla, että suuri osa Suomen koodityövoimasta on joko vastahakoisesti joutunut muuttamaan alueille, missä he eivät muutoin haluaisi asua tai piileskelevät etäkonttoreissaan. Yritykset, jotka kykenevät järjestämään osaajille kilpailukykyisiä töitä sijainnista riippumatta, taikka löytämään alihyödynnettyjä osaajakeskittymiä voisivat tällä keinoin saavuttaa osaajakilpailuetua.
 
-Tyypillinen syy, millä pääkaupunkikeskeisyyttä usein perustellaan on asiakkaiden sijainti. Suomalaisyritykset pitävät pääkonttoreitaan Helsingissä, minkä lisäksi se on Suomen suurin hallintopääkaupunki. Vaikka monet palveluyhtiöt eittämättä hyötyvät fyysisestä läheisyydestä asiakkaidensa kanssa, toisten yritysten asiakkaat saattavat olla useammin San Franciscossa tai Pekingissä. Näille asiakkaille on yhdentekevää, sijaitsevatko koodarinsa Espoossa, Turussa vaiko Kuopiossa. Voi hyvin uskoa, että kevään 2020 suuren etätyöharjoituksen avulla hajautetut prosessinsa timanttisiksi hioneet yritykset onnistuvat löytämään kasvun tekijänsä isojen kaupunkien ulkopuolella. Mikäli Suomen väestökarttan uskoo myös heijastavan sitä, missä ihmiset keskimäärin tosiasiassa haluavat asua, nämä yritykset saattavat myös kyetä houkuttelemaan väkeä pois isoista kaupungeista. 
+Tyypillinen syy, millä pääkaupunkikeskeisyyttä usein perustellaan on asiakkaiden sijainti. Suomalaisyritykset pitävät pääkonttoreitaan Helsingissä, minkä lisäksi se on Suomen suurin hallintopääkaupunki. Vaikka monet palveluyhtiöt eittämättä hyötyvät fyysisestä läheisyydestä asiakkaidensa kanssa, toisten yritysten asiakkaat saattavat olla aivan yhtä usein San Franciscossa tai Shanghaissa. Näille asiakkaille on yhdentekevää, sijaitsevatko koodarinsa Espoossa, Turussa vaiko Kuopiossa.
+
+Voi hyvin uskoa, että kevään 2020 suuren etätyöharjoituksen avulla hajautetut prosessinsa timanttisiksi hioneet yritykset saattavat onnistumaan löytämään kasvattajansa isojen kaupunkien ulkopuolelta. Mikäli Suomen väestökarttan uskoo myös heijastavan sitä, missä ihmiset keskimäärin tosiasiassa haluavat asua, hajautetummalla mallilla nämä yritykset saattavat kyetä myös houkuttelemaan jonkin verran väkeä pois isoista kaupungeista.
 
 Muuttoliikkeeseen niin maan sisällä kuin kansainvälisestikin luottavien kannattaa muistaa, että kotipaikkaansa vaihtavalle voi myös Tukholma, Berliini tai Melbourne olla aivan yhtä varteenotettavia vaihtoehtoja, kuin Helsinki tai Tampere.
 
@@ -84,7 +96,7 @@ Muuttoliikkeeseen niin maan sisällä kuin kansainvälisestikin luottavien kanna
 > 
 > -- Ohjelmistokehittäjä
 
-Headhunterien ahdistelun ja hakemusvyöryjen vastapainoksi kyselyyn vastasivat myös muutamat, jotka olivat kohdanneet vaikeuksia työn saamisessa, kuin myös yrityksiä jotka eivät saa edes hakemuksia vaikka halua palkata olisi. Erot näkyvyydessä ja osaamisprofiileissa voivat tuottaa matteus-vaikutusta, missä työhakemukset että työtarjoukset keskittyvät vinoutuneesti harvemmille kuin olisi tarkoituksenmukaista. Osaajien ja töiden etsiminen paikoista mitä muut ylenkatsovat voi olla näissä tilanteissa aiheellista. Lisäksi voi uskoa, että ulkopuolisille palveluille näkyvyyden lisäämiseksi tai osaamisen kaupallistamiseksi voi olla kysyntää.
+Headhunterien ahdistelun ja hakemusvyöryjen vastapainoksi kyselyyn vastasivat myös muutamat, jotka olivat kohdanneet vaikeuksia työn saamisessa, kuin myös yrityksiä jotka eivät saa edes hakemuksia vaikka halua palkata olisi. Erot näkyvyydessä ja osaamisprofiileissa voivat tuottaa matteus-vaikutusta, missä työhakemukset että työtarjoukset vinoutuvat harvemmille kuin olisi tarkoituksenmukaista. Työkalut osaajien ja töiden etsimiseen muiden ylenkatsomista paikoista olisivat tarpeen. Ehkä myös sekä hakijoille luodut palvelut esimerkiksi näkyvyyden lisäämiseksi tai osaamisen kaupallistamiseksi olisi hyödyllisiä?
 
 ### Tylsätkin työt tarvitsevat tekijänsä
 
@@ -92,9 +104,13 @@ Headhunterien ahdistelun ja hakemusvyöryjen vastapainoksi kyselyyn vastasivat m
 > 
 > -- Ohjelmistokehittäjä
 
-Muutama vastaaja huomautti myös itse työtehtävien luonteen vaikuttavan rekrytointeihin. Ohjelmistokehittäjillä on monia syitä karttaa esimerkiksi vanhojen teknologioiden kanssa tehtävää työtä. Kypsien, moderneja työkaluja heikomman ilmaisuvoiman omaavien kielten kanssa työ on vaikeampaa, turhauttavampaa, yhteisön tuki on tyypillisesti vähäistä ja kehittäjä joutuu ottamaan merkittävän riskin osaamisen vanhentumisesta mikäli esoteeriselle työmaalle tapahtuu jotain. Niin Symbian- kuin Windows Phone -ekosysteemien romahtaminen ja osaamisen jääminen tyhjän päälle on varsin tuore muisto Suomen IT-kentässä.
+Muutama vastaaja huomautti myös itse työtehtävien luonteen vaikuttavan rekrytointeihin. Ohjelmistokehittäjillä on monia syitä karttaa esimerkiksi vanhojen teknologioiden kanssa tehtävää työtä. Kypsien, moderneja työkaluja heikomman ilmaisuvoiman omaavien kielten kanssa työ on vaikeampaa, turhauttavampaa, yhteisön tuki on tyypillisesti vähäistä ja kehittäjä joutuu ottamaan merkittävän riskin osaamisen vanhentumisesta, mikäli esoteeriselle työmaalle tapahtuu jotain. Niin Symbian- kuin Windows Phone -ekosysteemien romahtaminen ja kartutetun osaamisen jääminen tyhjän päälle on varsin tuore muisto Suomen IT-kentässä. Monet kehittäjät haluavat pelata varman päälle ja keskittyä suosittuihin työkaluihin, joille riittää kysyntää.
 
-Harvinaisten järjestelmien tuen tarve ei kuitenkaan liiku kehittäjien mielenkiinnon mukana. Nämäkin työt tarvitsevat tekijöitä ja olisi kaikkien kannalta edullista miettiä, kuinka työstä voisi tehdä houkuttelevampaa. Osin kyseessä on kyse perspektiiveistä. Nuoria, kokemattomia koodareita usein pelotellaan tarinoilla kamalasta legacykoodista, jota tuhmat koodarit joutuvat ylläpitämään elleivät kuuntele kokeneempien viisauksia. On varsin yleistä, että kärkkäimpiä mielipiteitä Enterprise Javasta jakavat ihmiset, jotka eivät ole eläessään koodanneet riviäkään Javaa. Lisäksi ohjelmoijien houkutteluun voi uskoa auttavan työkalujen luominen urariskien hallintaan. Esimerkiksi pitkät projektisopimukset etumaksuineen, urallisen umpikujan rajaaminen toissijaiseksi toimeksiannoksi, anteliaat koulutusbudjetit sekä läpinäkyvästi ja julkisesti rouheammat palkkiot tulee nopeasti mieleen.
+Harvinaisten järjestelmien tuen tarve ei kuitenkaan liiku kehittäjien mielenkiinnon mukana. Nämäkin työt tarvitsevat tekijöitä ja olisi kaikkien kannalta tärkeää miettiä, kuinka työstä voisi tehdä houkuttelevampaa.
+
+Osin kyseessä on kyse vinoutuneista perspektiiveistä. Nuoria, kokemattomia koodareita usein pelotellaan tarinoilla kamalasta legacykoodista, jota tuhmat koodarit joutuvat ylläpitämään. On varsin yleistä, että kärkkäitä mielipiteitä Enterprise Javasta jakavat ihmiset, jotka eivät ole eläessään koodanneet riviäkään Javaa.
+
+Ohjelmoijien houkutteluun tulisi luoda työkaluja urariskien hallintaan. Esimerkiksi pitkät projektisopimukset etumaksuineen, urallisen umpikujan rajaaminen sivutoimeksiannoksi, anteliaat koulutusbudjetit sekä rouheammat palkkiot työstä saattaisivat auttaa tässä.
 
 ### Ihan paska kysely, tee uusi
 
@@ -104,7 +120,7 @@ Neljä vastaajaa katsoi tarpeelliseksi myös kritisoida kysymyksenasettelua. Toi
 
 Hyvin yllättävästi, yksikään kyselyyn vastaajista ei maininnut IT-alan epätasaista sukupuolijakaumaa kommenteissaan. Suomessa vain 23% IT-alan työntekijöistä on naisia, eikä tilanne ole tyypillisesti sen tasaisempi muuallakaan maailmassa. Tämän epäsuhdan korjaaminen on kiistatta "matalimpia hedelmiä" alan osaajamäärän kasvattamiseksi, mutta vastaajiamme tämä ei vaikuttanut huolestuttavan.
 
-Myöskään toinen juhlapuheissa yleinen mantra työn merkityksellisyyden tarpeesta, vuoden 2019 lopulla käyty keskustelu ulkomaisten osaajien työlupien hitaudesta taikka pointit (avo)konttoriolojen houkuttelevuudesta ja tarkoituksenmukaisuudesta eivät näkyneet kommenteissa, vaikka muissa näkemissäni aihepiirin keskusteluissa nämä ovat usein olleet pinnalla.
+Myöskään juhlapuheissa yleiset pointit työn merkityksellisyyden tarpeesta, vuoden 2019 lopulla käyty keskustelu ulkomaisten osaajien työlupien hitaudesta taikka pointit (avo)konttoriolojen houkuttelevuudesta ja tarkoituksenmukaisuudesta eivät näkyneet kommenteissa, vaikka muissa näkemissäni aihepiirin keskusteluissa nämä ovat usein olleet pinnalla. 
 
 ### Lisätietoja
 
