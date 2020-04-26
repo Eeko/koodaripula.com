@@ -12,7 +12,7 @@ Osa 3: [Mitä muuta pulatilanteesta havaittiin?][koodaripula-osa-3]
 
 ## Tutkimuksesta lyhyesti
 
-Vuoden 2020 alussa minua oli vaivannut Suomessa käytävä työmarkkinakeskustelu. Tarkasti ottaen se osuus, missä eri yritysten, heidän edunvalvojansa ja edustajiensa puheet aiheesta vaikuttivat olevan hyvin ristiriidassa sen kanssa, miten itse olin rekrymarkkinat kokenut ja miten niistä keskusteltiin omissa, yleensä rekrytoinnin kohteena olevissa asiantuntijavoittoisissa someissa.
+Vuoden 2020 alussa minua oli vaivannut Suomessa käytävä työmarkkinakeskustelu. Tarkasti ottaen se osuus, missä eri yritysten, heidän edunvalvojansa ja edustajiensa puheet aiheesta vaikuttivat olevan hyvin ristiriidassa sen kanssa, miten itse olin rekrymarkkinat kokenut ja miten niistä keskusteltiin oman kaveripiirini ja kollegoideni someissa.
 
 Saadakseni mielenrauhaa, esitin maaliskuussa 2020 verkostolleni seuraavan kysymyksen:
 
