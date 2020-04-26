@@ -17,12 +17,12 @@ Koodaripula.com is an independent research project for developing better knowled
 The site and the articles provided are in Finnish as the survey and research was done for the Finnish speaking ICT-community. However, the data used for the research has been translated and we plan to publish a short summary of our key findings in English as well.
 
 
-### Credits
+### Syylliset
 
-All content, [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), Eetu Korhonen
+Kaikki sisältö, [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), Eetu Korhonen
 
-Special thanks for [Elja-Ilari Suhonen](https://www.linkedin.com/in/eljasuhonen/) for helping with analyzing the data.
+Erityiskiitos [Elja-Ilari Suhoselle](https://www.linkedin.com/in/eljasuhonen/) data-analyysiavusta.
 
-If you like this work, consider donating with [Bitcoin](bitcoin:1JNntiCWktjNxdTit7KPBgKkEd1Sof8cJF)
+Jos tästä sisällöstä on iloa tai hyötyä sinulle, voit vipata Satoshin tai kaksi [täältä](bitcoin:1JNntiCWktjNxdTit7KPBgKkEd1Sof8cJF).
 
 ![bitcoin:1JNntiCWktjNxdTit7KPBgKkEd1Sof8cJF](/assets/bitcoin-qr.png "bitcoin:1JNntiCWktjNxdTit7KPBgKkEd1Sof8cJF")
