@@ -32,20 +32,19 @@ Lisää tietoa itse tutkimuksesta voi löytää [Tietoa tutkimuksesta](/survey) 
 
 Kun on pakko valita, enin osa vastaajista kallistui "Kyllä" -vastauksen puolelle. Itsestään selvänä pulakokemusta ei kuitenkaan selvästi pidetä, sillä yli kolmannes vastaajista päätyi kyseenalaistavaan vastaukseen. Tämän lisäksi lukuisat vastaukset täsmensivät vastaustaan kommenteilla, joiden sisällöt olivat verrattain usein saman suuntaisia riippumatta vastauksesta itse pääkysymykseen. Usein samoilla perusteilla päädyttiin molempiin vastausvaihtoehtoihin. Tästä voi päätellä, että jonkinlaiselle "En osaa sanoa" -vastausvaihdolle olisi ollut kysyntää.
 
-
 ### Somekuplien välillä on havaittavissa eroja
 
 ![alt text][1-answer-cumulation]
 
-Keräsin myös aikajanan eri vastausten kertymisestä. Tarkoitus oli kerätä tietoa siitä, kuinka kysely liikkuisi eri sosiaalisissa medioissa ja kuinka näistä kertyvät vastaukset mahdollisesti eroaisivat toisistaan. Vastausten kertymästä piirtämästäni kuvaajasta voi selvästi erottaa muutamia vastausten kertymävaiheita ja eroja käyrien kasvunopeudessa.
+Keräsimme myös aikajanan eri vastausten kertymisestä. Tarkoitus oli kerätä tietoa siitä, kuinka kysely liikkuisi eri sosiaalisissa medioissa ja kuinka näistä kertyvät vastaukset mahdollisesti eroaisivat toisistaan. Vastausten kertymästä piirretystä kuvaajasta voi selvästi erottaa muutamia vastausten kertymävaiheita ja eroja käyrien kasvunopeudessa.
 
-Alkuun jaoin linkkiä kyselyyn lähinnä minulle läheisimmissä teknisissä IRC-kanavissa sekä LinkedInissä. Näille medioille oli tyypillistä, että kyselylinkit hautautuivat nopeasti viestitulvaan eivätkä kauaa näkyneet suurimmalle osalle kanavien seuraajista. Minulle läheisimmissä kuplissa on myös keskusteltu aiheesta aiemminkin ahkerasti, mikä varmasti näkyy osaltaan myöhempiä vastauksia merkittävästi tasaisempana hajontana vastausvaihtoehtojen välillä. Hiljalleen "Kyllä" -vastaukset alkoivat kuitenkin muodostaa selvän kaulan "Ei" -vastauksiin, eikä eri vastausten suhdeluku alun jälkeen merkittävästi enää muuttunut.
+Alkuun linkkiä jaettiin kyselyyn lähinnä tekijälle läheisimmissä teknisissä IRC-kanavissa sekä LinkedInissä. Näille medioille oli tyypillistä, että kyselylinkit hautautuivat nopeasti viestitulvaan eivätkä kauaa näkyneet suurimmalle osalle kanavien seuraajista. Näissä kuplissa on myös keskusteltu aiheesta aiemminkin ahkerasti, mikä varmasti näkyy osaltaan myöhempiä vastauksia merkittävästi tasaisempana hajontana vastausvaihtoehtojen välillä. Hiljalleen "Kyllä" -vastaukset alkoivat kuitenkin muodostaa selvän kaulan "Ei" -vastauksiin, eikä eri vastausten suhdeluku alun jälkeen merkittävästi enää muuttunut.
 
-"Kyllä" -vastauksissa on nähtävissä selvä piikki maaliskuun kolmantena. Tuolloin jaoin linkkiä ainakin Facebookin "IT-rekryn ihmeellinen maailma" -ryhmässä. Rekrytoijat vastasivat voittopuoleisesti "Kyllä" -kysymykseen, mikä luultavasti selittää nousua.
+"Kyllä" -vastauksissa on nähtävissä selvä piikki maaliskuun kolmantena. Tuolloin linkkiä jaettiin ainakin Facebookin "IT-rekryn ihmeellinen maailma" -ryhmässä. Rekrytoijat vastasivat voittopuoleisesti "Kyllä" -kysymykseen, mikä luultavimmin selittää nousua.
 
-Suurin nousu vastausmäärissä tapahtui viides maaliskuuta, kun [kysyin Redditin softa-ammattilaisten kokemuksia koodaripulasta](https://www.reddit.com/r/Suomi/comments/fds36d/redditin_softaammattilaiset_huomio_kaksi/). Some-mainonta ja viraalilevitys oli kiistatta tehokas tapa kerryttää vastauksia, mutta vastausten ja johtopäätösten luotettavuuden kannalta on ongelma, että vonkaukseni keräsivät myös aktiivista keskustelua ympärilleen, mikä varmasti vaikutti jossain määrin itse vastauksiin ja vastaajien jättämiin kommentteihin. Redditin viestiketju on varsin tyypillinen näyte niistä keskusteluista, mitä havaitsin myös muilla käyttämilläni somealustoilla käydyn kysymyksistäni.
+Suurin nousu vastausmäärissä tapahtui viides maaliskuuta, kun [kysely jaettiin Redditiin](https://www.reddit.com/r/Suomi/comments/fds36d/redditin_softaammattilaiset_huomio_kaksi/). Some-mainonta ja viraalilevitys oli kiistatta tehokas tapa kerryttää vastauksia, mutta vastausten ja johtopäätösten luotettavuuden kannalta on ongelma, että yksinkertainen gallup keräsi myös aktiivista keskustelua ympärilleen, mikä varmasti vaikutti jossain määrin itse vastauksiin ja vastaajien jättämiin kommentteihin. Redditin viestiketju on varsin tyypillinen näyte niistä keskusteluista, mitä havaittiin myös muilla käyttämilläni somealustoilla käydyn kysymyksistä.
 
-Tämän jälkeen harrastin säännöllistä muistuttamista kyselyni olemassaolosta käyttämissäni sosiaalisissa medioissa. Lisäksi sain kuulla ainakin muutamien vastaajien myös jakaneen kyselyä eteenpäin omissa piireissään. Nämä näkyvät selvästi pieninä kasvupyrähdyksinä vastausmäärissä, mutta itse vastausten hajontaan vaikuttavia kuplia näistä on vaikeampi havaita.
+Tämän jälkeen vastauksia kerättiin säännöllisesti muistuttamalla kyselyn olemassaolosta edellä mainituissa sosiaalisissa medioissa. Tiettävästi ainakin muutamat vastaajat myös jakoivat kyselyä eteenpäin omissa piireissään. Nämä näkyvät selvästi pieninä kasvupyrähdyksinä vastausmäärissä, mutta itse vastausten hajontaan vaikuttavia kuplia näistä on vaikeampi havaita.
 
 ### Suurin osa vastaajista ohjelmoijia ja teknisiä asiantuntijoita
 
@@ -61,7 +60,7 @@ Tämän jälkeen harrastin säännöllistä muistuttamista kyselyni olemassaolos
 
 ![alt text][1-respondent-occupations]
 
-Vastaajista 85% luokitteli itsensä joko ohjelmoijiksi tai muiksi tietoteknisiksi asiantuntijoiksi. Koska levitin kyselyä lähinnä itseni käyttämissä somekanavissa ja omissa verkostoissani, teknisten vastausten suuri määrä ei yllätä. Sadat vastaukset ohjelmistokehittäjiltä tekevät myös osaltaan tästä aineistosta ainutlaatuisen, sillä tyypillisesti rekrytointitutkimukset kohdistetaan rekrytointiammattilaisille ja yritysjohdolle. Rekrytoitaville asiantuntijoille suunnattuja tutkimuksia en ole nähnyt. Myös yrityksen hallintoa, rekrytoijia ja työn organisoijia löytyy aineistosta kymmenittäin, joten suuntaa antavaa vertailua vastaajaryhmien välille voi tehdä.
+Vastaajista 85% luokitteli itsensä joko ohjelmoijiksi tai muiksi tietoteknisiksi asiantuntijoiksi. Koska kyselyä levitettiin lähinnä kerääjän käyttämissä somekanavissa ja verkostoissa, teknisten vastausten suuri määrä ei yllätä. Sadat vastaukset ohjelmistokehittäjiltä tekevät myös osaltaan tästä aineistosta ainutlaatuisen, sillä tyypillisesti rekrytointitutkimukset kohdistetaan rekrytointiammattilaisille ja yritysjohdolle. Rekrytoitaville asiantuntijoille suunnattuja tutkimuksia näkyy harvoin. Myös yrityksen hallintoa, rekrytoijia ja työn organisoijia löytyy aineistosta kymmenittäin, joten suuntaa antavaa vertailua vastaajaryhmien välille voi tehdä.
 
 ### Rekrytoijat miltei yksimielisiä, muut tekniset asiantuntijat jakautuneimpia
 
@@ -81,14 +80,14 @@ Eri ammattikuntien vastauksista rekrytoijat sekä "muut tekniset asiantuntijat" 
 
 Mielenkiintoinen on myös itsensä asiakkaiksi ja muiksi vastaajiksi luokitelleiden ryhmissä näkyvä "Ei" -vastausten enemmistö. Otoskokoa ei näissä voi kuitenkaan pitää riittävän suurena luotettaviin johtopäätöksiin. Voi olla kuitenkin mielenkiintoista selvittää esimerkiksi sitä, kuinka koettu koodaripula varsinaisesti näkyy asiakkaille? Kaksi neljästä muusta vastaajista olivat opiskelijoita ja yksi opettaja, joiden vastaukset saattavat kertoa saaduissa kommenteissa esille nousseista alalla vasta aloittelevien työllistymisvaikeuksista.
 
-"Muu tekninen asiantuntija" -ryhmän poikkeama muista vastauksista on vaikea selittää. Mahdollisesti kysyntä poikkeaa rajusti eri ammattikuntien välillä. Voi olla, että vaikka ohjelmistokehittäjiä haetaan ahkerasti, esimerkiksi testausammattilaisten, tietoturvaosaajien tai muiden kapeampien erityisalojen työmahdollisuudet ovat merkittävästi kapeampia. Alla olevat kuvat ovat esimerkkejä niistä ammattikunnista, jotka LinkedInin mukaan näkivät kutsujani kyselyyn. Näitä voinee pitää jonkinlaisena kuvauksena siitä, millaisia ammatteja tuo vastaajaryhmä pitää sisällään.
+"Muu tekninen asiantuntija" -ryhmän poikkeama muista vastauksista on vaikea selittää. Mahdollisesti kysyntä poikkeaa rajusti eri ammattikuntien välillä. Voi olla, että vaikka ohjelmistokehittäjiä haetaan ahkerasti, esimerkiksi testausammattilaisten, tietoturvaosaajien tai muiden kapeampien erityisalojen työmahdollisuudet ovat merkittävästi kapeampia Suomen rajatun kokoisilla markkinoilla. Alla olevat kuvat ovat esimerkkejä niistä ammattikunnista, jotka LinkedInin mukaan näkivät kutsuja kyselyyn. Näitä voinee pitää jonkinlaisena kuvauksena siitä, millaisia ammatteja tuo vastaajaryhmä pitää sisällään.
 
 ![alt text][1-linkedin-occupations-1]{:width="380px"}
 ![alt text][1-linkedin-occupations-2]{:width="380px"}
 
 ### Kommentoijat edustava otos aineistosta
 
-Loput aineistoanalyysistä ja seuraavat artikkelit sarjassa tulevat koskemaan lähinnä kyselyni kolmatta osaa - vapaamuotoisia kommentteja ja niistä luokittelussa nousseita teemoja. Jotta voimme arvioida, voidaanko lukujen takana piilevää ajattelua tulkita kommenteista, halusin selvittää noudattaako kommentoineiden vastaukset likimain samaa jakaumaa kuin kaikilla vastaajilla:
+Loput aineistoanalyysistä ja seuraavat artikkelit sarjassa tulevat koskemaan lähinnä kyselyn kolmatta osaa - vapaamuotoisia kommentteja ja niistä luokittelussa nousseita teemoja. Jotta voimme arvioida, voidaanko lukujen takana piilevää ajattelua tulkita kommenteista, selvitimme noudattaako kommentoineiden vastaukset likimain samaa jakaumaa kuin kaikilla vastaajilla:
 
 ![alt text][1-answer-only-commenters]
 
@@ -98,11 +97,11 @@ Kommentoijista 102 vastasi kysymykseen "Kyllä" ja 74 vastasi kieltävästi. Tä
 
 ![alt text][1-comments-classifications-totals]
 
-Kommenttien luokittelu paljasti useita selkeitä teemoja vastaajien jaetuista kokemuksista. Miltei puolet kommentoijista mainitsivat pulatilan koskevan nimenomaan kokeneempia sovelluskehittäjiä. Hyvin suuri osa vastauksista sisälsivät myös huomioita siitä, että alalle vasta siirtyviä aloittelijoita vaikutti olevan erittäin hyvin saatavilla ja että heiltä puuttuu nykyisellään pääsyteitä alalle. Hyvin suosittu ihmetyksen aihe oli myös koodarien kompensaatiot, joista lukuisat vastaajat huomauttivat, etteivät yritysten esittämät tarjoukset vaikuttaneet tukevan narratiivia osaajapulasta.
+Kommenttien luokittelu paljasti useita selkeitä teemoja vastaajien jaetuista kokemuksista. Miltei puolet kommentoijista mainitsivat pulatilan koskevan nimenomaan kokeneempia sovelluskehittäjiä. Hyvin suuri osa vastauksista sisälsi myös huomioita siitä, että alalle vasta siirtyviä aloittelijoita vaikutti olevan erittäin hyvin saatavilla ja että heiltä puuttuu nykyisellään pääsyteitä alalle. Hyvin suosittu ihmetyksen aihe oli myös koodarien kompensaatiot, joista lukuisat vastaajat huomauttivat, etteivät yritysten esittämät tarjoukset vaikuttaneet tukevan narratiivia osaajapulasta.
 
 ![alt text][1-comments-classifications-by-answers]
 
-Kommenttien luokittelussa on myös havaittavissa joitain eroja "Kyllä" ja "Ei" -vastanneiden välisissä pohdinnoissa. Koodarien palkkoja ihmettelivät lähinnä kieltävästi vastanneet. Osaajien sitoutumisesta huolissaan olivat taasen lähinnä koodaripulan tunnustaneet. Yleisesti täsmennyksistä on kuitenkin havaittavissa se, että samoja perusteluja esiintyi usein molempia vastauksia antaneiden keskuudessa. Vastausprofiileja voinee siis myös tulkita terveen skeptisiksi "Kyllä, mutta..." tai "Ei, paitsi..." -tyylisiksi kyseenalaistuksiksi.
+Kommenttien luokittelussa on myös havaittavissa joitain eroja "Kyllä" ja "Ei" -vastanneiden välisissä pohdinnoissa. Koodarien palkkoja ihmettelivät lähinnä pääkysymykseen kieltävästi vastanneet. Osaajien sitoutumisesta huolissaan olivat taasen lähinnä koodaripulan tunnustaneet. Yleisesti täsmennyksistä on kuitenkin havaittavissa se, että samoja perusteluja esiintyi usein molempia vastauksia antaneiden keskuudessa. Vastausprofiileja voinee siis myös tulkita terveen skeptisiksi "Kyllä, mutta..." tai "Ei, paitsi..." -tyylisiksi kyseenalaistuksiksi.
 
 ### Lisätietoja
 
