@@ -118,9 +118,9 @@ Neljä vastaajaa katsoi tarpeelliseksi myös kritisoida kysymyksenasettelua. Toi
 
 ### Mitä emme nähneet?
 
-Hyvin yllättävästi, yksikään kyselyyn vastaajista ei maininnut IT-alan epätasaista sukupuolijakaumaa kommenteissaan. Suomessa vain 23% IT-alan työntekijöistä on naisia, eikä tilanne ole tyypillisesti sen tasaisempi muuallakaan maailmassa. Tämän epäsuhdan korjaaminen on kiistatta "matalimpia hedelmiä" alan osaajamäärän kasvattamiseksi, mutta vastaajiamme tämä ei vaikuttanut huolestuttavan.
+Hyvin yllättävästi, yksikään kyselyyn vastaajista ei maininnut [IT-alan epätasaista sukupuolijakaumaa kommenteissaan][yle-naiset]. Suomessa vain 23% IT-alan työntekijöistä on naisia, eikä tilanne ole tyypillisesti sen tasaisempi muuallakaan maailmassa. Tämän epäsuhdan korjaaminen on kiistatta "matalimpia hedelmiä" alan osaajamäärän kasvattamiseksi, mutta vastaajiamme tämä ei vaikuttanut huolestuttavan.
 
-Myöskään juhlapuheissa yleiset pointit [työn merkityksellisyyden tarpeesta][duunitori-merkityksellisyys], vuoden 2019 lopulla käyty keskustelu ulkomaisten osaajien työlupien hitaudesta taikka pointit (avo)konttoriolojen houkuttelevuudesta ja tarkoituksenmukaisuudesta eivät näkyneet kommenteissa, vaikka muissa näkemissäni aihepiirin keskusteluissa nämä ovat usein olleet pinnalla. 
+Myöskään juhlapuheissa yleiset pointit [työn merkityksellisyyden tarpeesta][duunitori-merkityksellisyys], vuoden 2019 lopulla käyty [keskustelu ulkomaisten osaajien työlupien hitaudesta][mtv-tyolupa] taikka pohdinnat [(avo)konttorityöskentelyn houkuttelevuudesta ja tarkoituksenmukaisuudesta][te-avokonttori] loistivat poissaolollaan, vaikka muissa näkemissäni aihepiirin keskusteluissa nämä ovat usein olleet pinnalla. 
 
 ### Lisätietoja
 
@@ -135,3 +135,9 @@ Tämänkin analyysin pohjana toimineen aineiston ja laskuihin käytetyt Jupyter-
 [koodaripula-osa-3]: /2020/04/21/comment-analysis-2.html "Artikkelisarjan kolmas osa"
 
 [duunitori-merkityksellisyys]: https://duunitori.fi/tyoelama/merkityksellinen-tyo "Duunitori: Johtaja, näin johdat merkitystä – Nämä 4 asiaa lisäävät merkityksellisyyttä työssä"
+
+[mtv-tyolupa]: https://www.mtvuutiset.fi/artikkeli/suomessa-karsitaan-koodaripulasta-mutta-kankea-tyoluvan-hakeminen-lyttaa-monen-ulkomaalaisen-haaveet-kuulin-etta-se-voi-kestaa-2-3-kuukautta/7603700 "MTV: Suomessa kärsitään koodaripulasta, mutta kankea työluvan hakeminen lyttää monen ulkomaalaisen haaveet: 'Kuulin, että se voi kestää 2-3 kuukautta'"
+
+[te-avokonttori]: https://www.talouselama.fi/uutiset/jalleen-uusi-tutkimus-osoittaa-avokonttorin-ongelmat-jotka-ovat-pahenemaan-pain-juuri-kukaan-ei-pysty-tyoskentelemaan-hairiotta-ilman-erityisia-toimenpiteita/64b762e6-c0b7-3ca9-a4b9-f76949ee244e "Jälleen uusi tutkimus osoittaa avokonttorin ongelmat, jotka ovat pahenemaan päin – Juuri kukaan ei pysty työskentelemään häiriöttä ilman erityisiä toimenpiteitä"
+
+[yle-naiset]: https://yle.fi/uutiset/3-10432815 "Naisista halutaan koodareita – aikuisilla naisilla on ohjelmoinnissa tarvittavaa ongelmanratkaisukykyä"
