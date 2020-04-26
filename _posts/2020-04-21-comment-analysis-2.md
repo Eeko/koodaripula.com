@@ -38,7 +38,7 @@ Muutama vastaaja nimesi myös erikseen ohjelmistojen laatuongelmat juurisyiksi k
 
 Puhuttiin myös diskurssin tuottamasta markkinavääristymästä, missä osaamistarjonta jota ei tarvita on lisääntynyt. Kaivattuja senioridevaajia on entistäkin vaikeampi houkutella ja sitouttaa riveihin.
 
-### Harva puhui kansainvälisistä osaajista ja heidän rekrytoinnistaan
+### Muutama puhui kansainvälisistä osaajista ja heidän rekrytoinnistaan
 
 > Todellisia osaajia ei näillä Suomen palkoilla saada koskaan houkuteltua muista maista merkittäviä määriä.
 > 
@@ -120,7 +120,7 @@ Neljä vastaajaa katsoi tarpeelliseksi myös kritisoida kysymyksenasettelua. Toi
 
 Hyvin yllättävästi, yksikään kyselyyn vastaajista ei maininnut IT-alan epätasaista sukupuolijakaumaa kommenteissaan. Suomessa vain 23% IT-alan työntekijöistä on naisia, eikä tilanne ole tyypillisesti sen tasaisempi muuallakaan maailmassa. Tämän epäsuhdan korjaaminen on kiistatta "matalimpia hedelmiä" alan osaajamäärän kasvattamiseksi, mutta vastaajiamme tämä ei vaikuttanut huolestuttavan.
 
-Myöskään juhlapuheissa yleiset pointit työn merkityksellisyyden tarpeesta, vuoden 2019 lopulla käyty keskustelu ulkomaisten osaajien työlupien hitaudesta taikka pointit (avo)konttoriolojen houkuttelevuudesta ja tarkoituksenmukaisuudesta eivät näkyneet kommenteissa, vaikka muissa näkemissäni aihepiirin keskusteluissa nämä ovat usein olleet pinnalla. 
+Myöskään juhlapuheissa yleiset pointit [työn merkityksellisyyden tarpeesta][duunitori-merkityksellisyys], vuoden 2019 lopulla käyty keskustelu ulkomaisten osaajien työlupien hitaudesta taikka pointit (avo)konttoriolojen houkuttelevuudesta ja tarkoituksenmukaisuudesta eivät näkyneet kommenteissa, vaikka muissa näkemissäni aihepiirin keskusteluissa nämä ovat usein olleet pinnalla. 
 
 ### Lisätietoja
 
@@ -133,3 +133,5 @@ Tämänkin analyysin pohjana toimineen aineiston ja laskuihin käytetyt Jupyter-
 [koodaripula-osa-2]: /2020/04/18/comment-analysis-1.html "Artikkelisarjan toinen osa"
 
 [koodaripula-osa-3]: /2020/04/21/comment-analysis-2.html "Artikkelisarjan kolmas osa"
+
+[duunitori-merkityksellisyys]: https://duunitori.fi/tyoelama/merkityksellinen-tyo "Duunitori: Johtaja, näin johdat merkitystä – Nämä 4 asiaa lisäävät merkityksellisyyttä työssä"

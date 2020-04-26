@@ -30,7 +30,7 @@ Tutkimukseen osallistujista noin 40% jätti myös vapaaehtoisen kommentin avaten
 > 
 > -- Yrityksen hallinto
 
-Yleisin kommenteissa esiintynyt huomio oli, että yritykset kaipaavat nimenomaan kannuksensa jo kerryttäneitä, kokeneita ohjelmistokehittäjiä. Yrityksestä riippuen, tämä toki voi tarkoittaa monia asioita aina vähäisestäkin aiemmasta työkokemuksesta nuoruusvuosien harrastuneisuuteen. "Senioridevaajan" määrittely saattaakin olla helpompaa tehdä sen kautta, mitä heitä suosimalla koetetaan välttää? Moni vastaaja ilmaisi, että yrityksiä pelottaa joutua aloittelevien tai muutoin heikkotasoisten ohjelmoijien kouluttajiksi. He sitovat yritykseltä tuottavuuttaan enemmän resursseja. Moni myös mainitsi pelkäävänsä tilannetta, missä kokemattoman kehittäjän kouluttamiseen on ensin sidottu paljon rahaa, minkä jälkeen tämä vaihtaakin kokeneempana kilpailijalle töihin paremman palkan perässä.
+Yleisin kommenteissa esiintynyt huomio oli, että [yritykset kaipaavat nimenomaan kannuksensa jo kerryttäneitä, kokeneita ohjelmistokehittäjiä][yle-konkarit]. Yrityksestä riippuen, tämä toki voi tarkoittaa monia asioita aina vähäisestäkin aiemmasta työkokemuksesta nuoruusvuosien harrastuneisuuteen. "Senioridevaajan" määrittely saattaakin olla helpompaa tehdä sen kautta, mitä heitä suosimalla koetetaan välttää? Moni vastaaja ilmaisi, että yrityksiä pelottaa joutua aloittelevien tai muutoin heikkotasoisten ohjelmoijien kouluttajiksi. He sitovat yritykseltä tuottavuuttaan enemmän resursseja. Moni myös mainitsi pelkäävänsä tilannetta, missä kokemattoman kehittäjän kouluttamiseen on ensin sidottu paljon rahaa, minkä jälkeen tämä vaihtaakin kokeneempana kilpailijalle töihin paremman palkan perässä.
 
 Muita mainittuja syitä suosia nimenomaan kokeneita kehittäjiä ovat mm.
 
@@ -120,6 +120,7 @@ Alati muuttuvat ja kasvavat osaamisvaatimukset tuottavat harmaita hiuksia myös 
 
 Ihmisten prioriteetit, unelmat ja velvoitteet vaihtelevat ja elävät ajan myötä. Mitä "tavallisempaa" väkeä ohjataan koodausammatteihin ja mitä diversimpää työvoimasta tulee, sitä vähemmän heiltä kaikilta on syytä odottaa tietotekniseen elämäntapaan mukautumista. Muuttuvien vaatimusten oravanpyörässä juokseminen lukuisine piiloylityötunteineen saattaa muuttua osaajalle "huonoksi diiliksi," mahdottomuudessaan ahdistavaksi tai alaa harkitsevalle kiinnostusta karkoittavaksi piirteeksi. Seurauksena alan työvoima vähenee osaajien hakeutuessa muihin tehtäviin, burnouttien ja alavalintojen vähenemisen myötä.
 
+
 Myös osaamisvaatimuksia kommentoineet vastaajat edustavat varsin edustavasti vastaajien kokonaisprofiilia. 62,5% heistä sanoi koodaripulan olevan todellisen ja noin 87,5% kommentoineista oli koodareita tai teknisiä asiantuntijoita.
 
 Vastaukset antavat viitteitä siitä, että yritykset, jotka kykenevät sopeuttamaan toimintaansa saatavilla oleviin osaajiin, eivätkä ole liian riippuvaisia liian täydellisistä täsmäosaajista voivat saavuttaa osaajakilpailuetua markkinoilla. Tämän lisäksi monien yritysten olisi syytä tarkkailla viestintäkäytäntöjään haluamiensa osaajien tavoittamiseksi. Usein erinomainen tekijä ei välttämättä tunnista tehtävää omakseen, mikäli viestintä siitä saa sen näyttämään saavuttamattomalta.
@@ -140,7 +141,9 @@ Vastaukset antavat viitteitä siitä, että yritykset, jotka kykenevät sopeutta
 
 Viidenneksi yleisin huomio kommenteissa lienee kaikkein suorimmin ristiriidassa vallitsevan koodaripulanarratiivin kanssa. Huomionarvoista on, että sopimattomien ja kokemattomien ohjelmistokehittäjien suuresta määrästä kertoneista n. 74% vastasi pääkysymykseen myöntävästi. Yli 15% keskiarvoa useampi siis katsoi koodaripulan olevan tosiasian, mutta huomauttaen epäsopivista osaajista olevan silti ylitarjontaa. Tehtäviensä puolesta vastaajaprofiilit vastasivat varsin tasaisesti kaikkia kyselyyn vastanneita.
 
-Tyypillisin osaajaprofiili, joiden ylitarjonnasta kerrottiin olivat kokemattomat junioridevaajat. Moni myös koki kokeneempienkin tekijöiden taidot heikoiksi tai soveltumattomiksi tehtäviin. Tyyppiesimerkkejä tästä ajattelusta ovat esimerkiksi hiljattain tiedotusvälineissä puitu [datanomien heikko työllisyystilanne][yle-konkarit] tai Nokian matkapuhelinliiketoimintojen alasajon yhteydessä koettu huoli "[Symbian-kehittäjien osaamisen vanhentumisesta][insinoori-symbian]."
+Tyypillisin osaajaprofiili, joiden ylitarjonnasta kerrottiin olivat kokemattomat junioridevaajat. Moni myös koki kokeneempienkin tekijöiden taidot heikoiksi tai soveltumattomiksi tehtäviin. Tyyppiesimerkkejä tästä ajattelusta ovat esimerkiksi hiljattain tiedotusvälineissä puitu [datanomien heikko työllisyystilanne][ts-datanomit] tai Nokian matkapuhelinliiketoimintojen alasajon yhteydessä koettu huoli "[Symbian-kehittäjien osaamisen vanhentumisesta][insinoori-symbian]."
+
+Kuvaavaa on, että [2017 Suomessakin raportoitiin lukuisista työttömistä Cobol-osaajista][is-kaksikerrosta]. 2020 koronaviruspandemian aikaan taasen osaamiselle yllättäen ilmaantui kysyntää [Yhdysvaltojen muinaisten Cobol-järjestelmien hukkuessa kuormaansa][tt-cobol].
 
 Kokemattomien tai väärän profiilin kehittäjien vierastaminen paljastaa myös lohduttoman kuvan tällä hetkellä suosituimmista ratkaisuehdotuksista koodaripulaan. Lukuisat korkeakoulut ovat lisänneet teollisuuden toiveesta koulutusmääriään, alanvaihtajille on rakennettu pikakoulutusohjelmia ohjelmointiammatteihin ja kiinnostusta koodaamiseen koetetaan ehdollistaa jopa koululaisiin. Näiden hankkeiden hyödyllisyyttä voidaan kuitenkin kyseenalaistaa, mikäli pullonkaulaksi meille muodostuu teollisuuden heikko kyky järjestää ohjelmoinnista motivoituneille aloittelijoille ensimmäisiä työpaikkojaan?
 
@@ -162,7 +165,9 @@ Koska pullonkaula vaikuttaa tällä hetkellä olevan nimenomaan ensityöpaikkoje
 
 Artikkelin pohjana toiminut data analyyseineen ja kaavioineen on löydettävissä [tämän projektin Githubista][github-jupynotebook]. Seuraavassa artikkelissa tulemme käsittelemään kommenteista vähemmän nousseita huomioita ja mitä niistä voi oppia. [Kolmannen osan voi löytää täältä][koodaripula-osa-3]
 
-[yle-konkarit]: https://yle.fi/uutiset/3-11215988 " YLE: Koodarin töihin ei pelkkä tutkinto riitä – Koodaripula tarkoittaa yhä useammin pulaa kokeneista konkareista"
+[yle-konkarit]: https://yle.fi/uutiset/3-11215988 "YLE: Koodarin töihin ei pelkkä tutkinto riitä – Koodaripula tarkoittaa yhä useammin pulaa kokeneista konkareista"
+
+[ts-datanomit]: https://www.ts.fi/uutiset/kotimaa/3013486/Datanomit+osaavat+mutta+tyollisyystilanne+on+heikentynyt "Datanomit osaavat, mutta työllisyystilanne on heikentynyt"
 
 [aalto-supercell]: https://www.aaltoent.fi/aalto-leaders-insight/2014/supercellin-menestyksen-seitseman-salaisuutta "Supercellin menestyksen seitsemän salaisuutta"
 
@@ -182,4 +187,8 @@ Artikkelin pohjana toiminut data analyyseineen ja kaavioineen on löydettäviss�
 
 [koodaripula-osa-3]: /2020/04/21/comment-analysis-2.html "Artikkelisarjan kolmas osa"
 
-[tt-vanhentuva-osaaminen]: https://www.tekniikkatalous.fi/uutiset/it-ammattilaiset-huolissaan-vanhentuvasta-osaamisesta-joissain-yrityksissa-tai-tehtavissa-olevia-tyontekijoita-ei-edes-haluta-kouluttaa/8e5ba229-3796-3088-a5e3-6e946350c096 "It-ammattilaiset huolissaan vanhentuvasta osaamisesta: 'Joissain yrityksissä tai tehtävissä olevia työntekijöitä ei edes haluta kouluttaa'"
+[tt-vanhentuva-osaaminen]: https://www.tekniikkatalous.fi/uutiset/it-ammattilaiset-huolissaan-vanhentuvasta-osaamisesta-joissain-yrityksissa-tai-tehtavissa-olevia-tyontekijoita-ei-edes-haluta-kouluttaa/8e5ba229-3796-3088-a5e3-6e946350c096 "Tekniikka ja Talous: It-ammattilaiset huolissaan vanhentuvasta osaamisesta: 'Joissain yrityksissä tai tehtävissä olevia työntekijöitä ei edes haluta kouluttaa'"
+
+[is-kaksikerrosta]: https://www.is.fi/taloussanomat/oma-raha/art-2000005206575.html "Ilta-Sanomat: Kahden kerroksen koodarit: Paha työvoimapula, samaan aikaan osa työttömänä"
+
+[tt-cobol]: https://www.tekniikkatalous.fi/uutiset/tyottomyystukijarjestelma-usassa-hukkuu-hakemuksiin-rakennettu-cobolilla-ja-osaajista-on-huutava-pula/3f59e992-268b-4016-a8ea-1d3cbb53e329 "Tekniikka ja Talous: Työttömyystukijärjestelmä USA:ssa hukkuu hakemuksiin – rakennettu cobolilla ja osaajista on huutava pula"
