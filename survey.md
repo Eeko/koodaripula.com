@@ -56,7 +56,7 @@ Esimerkki luokitteluista:
 
 Tästä kommentista tunnistettiin `COMMENT(LACK_OF_TRAINING_OR_ENTRY_PATHS_FOR_BEGINNERS_TO_INDUSTRY)`, `COMMENT(SENIORS_ENGINEERS_NEEDED)` ja `COMMENT(COMMITMENT_WORRIES)` -luokat, minkä lisäksi kommentin avainajatus käännettiin seuraavasti:
 
-> Many companies want out-of-the-box productvie employees and are not equipped to train workforce themselves from juniors. Working to train, retain and develop employees themselves would solve the recruitment troubles.
+> Many companies want out-of-the-box productive employees and are not equipped to train workforce themselves from juniors. Working to train, retain and develop employees themselves would solve the recruitment troubles.
 
 ### Mistä aineisto on saatavissa?
 
