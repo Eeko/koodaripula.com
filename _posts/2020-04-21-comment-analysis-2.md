@@ -84,7 +84,7 @@ Tyypillinen syy, millä pääkaupunkikeskeisyyttä usein perustellaan on asiakka
 
 Voi hyvin uskoa, että kevään 2020 suuren etätyöharjoituksen avulla hajautetut prosessinsa timanttisiksi hioneet yritykset saattavat onnistumaan löytämään kasvattajansa isojen kaupunkien ulkopuolelta. Mikäli Suomen väestökarttan uskoo myös heijastavan sitä, missä ihmiset keskimäärin tosiasiassa haluavat asua, hajautetummalla mallilla nämä yritykset saattavat kyetä myös houkuttelemaan jonkin verran väkeä pois isoista kaupungeista.
 
-Muuttoliikkeeseen niin maan sisällä kuin kansainvälisestikin luottavien kannattaa muistaa, että kotipaikkaansa vaihtavalle voi myös Tukholma, Berliini tai Melbourne olla aivan yhtä varteenotettavia vaihtoehtoja, kuin Helsinki tai Tampere.
+Muuttoliikkeeseen niin maan sisällä kuin kansainvälisestikin luottavien kannattaa muistaa, että kotipaikkaansa vaihtavalle voivat myös Tukholma, Berliini tai Melbourne olla aivan yhtä varteenotettavia vaihtoehtoja kuin Helsinki tai Tampere.
 
 ### On myös töitä, jotka eivät saa hakijoita ja hakijoita, jotka eivät löydä töitä
 
