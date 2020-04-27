@@ -66,7 +66,7 @@ Maassa jo olevan kansainvälisen työvoiman rekrytoinneista aineistossa ei puhut
 > 
 > -- Ohjelmistokehittäjä
 
-Kahdeksaa vastaajaa askarrutti ohjelmoijien sitouttaminen. Heistä jokainen myös vastasi pääkysymykseen myöntävästi. Seitsemän vastaajaa huomautti todistaneensa headhunterien erityistä aktiivisuutta. Tämänkaltaisten vastausten määrä ei ole valtava, mutta selvästi monia toimijoita alalla pelottaa joutua työväkeä kouluttavaksi maksumieheksi kilpailijoiden anastaessa heidän kouluttamansa tekijät palkitsevampiin tehtäviin. Monet IT-yritykset kokevat pelaavansa työvoimaista Mustaa Pekkaa, missä kukaan ei kaipaa käteensä koulutettavaa junnudevaajaa.
+Kahdeksaa vastaajaa askarrutti ohjelmoijien sitouttaminen. Heistä jokainen myös vastasi pääkysymykseen myöntävästi. Seitsemän vastaajaa huomautti todistaneensa headhunterien erityistä aktiivisuutta. Tämänkaltaisten vastausten määrä ei ole valtava, mutta selvästi monia toimijoita alalla pelottaa joutua työväkeä kouluttavaksi maksumieheksi kilpailijoiden anastaessa heidän kouluttamansa tekijät palkitsevampiin tehtäviin. Monet IT-yritykset kokevat pelaavansa työvoimasta Mustaa Pekkaa, missä kukaan ei kaipaa käteensä koulutettavaa junnudevaajaa.
 
 ### Koodaajat haluavat asua myös isojen kaupunkien ulkopuolella
 
