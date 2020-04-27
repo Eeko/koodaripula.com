@@ -10,7 +10,7 @@ Tämä on koodaripulakyselyn tulosanalyysin kolmas osa. Aiemmat osat löytyvät 
 Osa 1: [Koodaripulakyselyn päähavainnot][koodaripula-osa-1]
 Osa 2: [Miksi koodareista on pulaa?][koodaripula-osa-2]
 
-Aiemmassa artikkelissa käsittelemiemme viiden ydinteeman lisäksi kommenteissa oli tunnistettavissa lukuisia muita yhteisi, mutta selvästi harvinaisempia teemoja. Monien kohdalla näiden harvinaisuus on itsessään mielenkiintoista, sillä julkisessa keskustelussa esimerkiksi kansainvälisen työvoiman rekrytointihaasteet ovat esiintyneet paljon aktiivisemmin, kuin näkemissämme vastauksissa. Harvinaisemmat pointit edustavat usein myös valtavirrasta poikkeavia näkemyksiä, joiden avulla saatamme pystyä löytämään vielä toistaiseksi heikommin tunnettuja keinoja ymmärtää ongelmaa. Tulosraportin viimeisessä osassa käsittelemme myös hieman teemoja, joita emme odotuksiemme vastaisesti havainneet aineistosta.
+Aiemmassa artikkelissa käsittelemiemme viiden ydinteeman lisäksi kommenteissa oli tunnistettavissa lukuisia muita yhteisiä, mutta selvästi harvinaisempia teemoja. Monien kohdalla näiden harvinaisuus on itsessään mielenkiintoista, sillä julkisessa keskustelussa esimerkiksi kansainvälisen työvoiman rekrytointihaasteet ovat esiintyneet paljon aktiivisemmin, kuin näkemissämme vastauksissa. Harvinaisemmat pointit edustavat usein myös valtavirrasta poikkeavia näkemyksiä, joiden avulla saatamme pystyä löytämään vielä toistaiseksi heikommin tunnettuja keinoja ymmärtää ongelmaa. Tulosraportin viimeisessä osassa käsittelemme myös hieman teemoja, joita emme odotuksiemme vastaisesti havainneet aineistosta.
 
 ### Kehnot työtavat ja laatuvelka saattavat johtaa vältettävissä olevaan työhön
 
