@@ -66,7 +66,7 @@ Maassa jo olevan kansainvälisen työvoiman rekrytoinneista aineistossa ei puhut
 > 
 > -- Ohjelmistokehittäjä
 
-Kahdeksaa vastaajaa askarrutti ohjelmoijien sitouttaminen. Heistä jokainen myös vastasi pääkysymykseen myöntävästi. Seitsemän vastaajaa huomautti todistaneensa headhunterien erityistä aktiivisuutta. Tämänkaltaisten vastausten määrä ei ole valtava, mutta selvästi monia toimijoita alalla pelottaa joutua työväkeä kouluttavaksi maksumieheksi kilpailijoiden anastaessa heidän kouluttamansa tekijät palkitsevampiin tehtäviin. Monet IT-yritykset kokevat pelaavansa työvoimaista Mustaa Pekkaa, missä kukaan ei kaipaa käteensä koulutettavaa junnudevaajaa.
+Kahdeksaa vastaajaa askarrutti ohjelmoijien sitouttaminen. Heistä jokainen myös vastasi pääkysymykseen myöntävästi. Seitsemän vastaajaa huomautti todistaneensa headhunterien erityistä aktiivisuutta. Tämänkaltaisten vastausten määrä ei ole valtava, mutta selvästi monia toimijoita alalla pelottaa joutua työväkeä kouluttavaksi maksumieheksi kilpailijoiden anastaessa heidän kouluttamansa tekijät palkitsevampiin tehtäviin. Monet IT-yritykset kokevat pelaavansa työvoimasta Mustaa Pekkaa, missä kukaan ei kaipaa käteensä koulutettavaa junnudevaajaa.
 
 ### Koodaajat haluavat asua myös isojen kaupunkien ulkopuolella
 
@@ -84,7 +84,7 @@ Tyypillinen syy, millä pääkaupunkikeskeisyyttä usein perustellaan on asiakka
 
 Voi hyvin uskoa, että kevään 2020 suuren etätyöharjoituksen avulla hajautetut prosessinsa timanttisiksi hioneet yritykset saattavat onnistumaan löytämään kasvattajansa isojen kaupunkien ulkopuolelta. Mikäli Suomen väestökarttan uskoo myös heijastavan sitä, missä ihmiset keskimäärin tosiasiassa haluavat asua, hajautetummalla mallilla nämä yritykset saattavat kyetä myös houkuttelemaan jonkin verran väkeä pois isoista kaupungeista.
 
-Muuttoliikkeeseen niin maan sisällä kuin kansainvälisestikin luottavien kannattaa muistaa, että kotipaikkaansa vaihtavalle voi myös Tukholma, Berliini tai Melbourne olla aivan yhtä varteenotettavia vaihtoehtoja, kuin Helsinki tai Tampere.
+Muuttoliikkeeseen niin maan sisällä kuin kansainvälisestikin luottavien kannattaa muistaa, että kotipaikkaansa vaihtavalle voivat myös Tukholma, Berliini tai Melbourne olla aivan yhtä varteenotettavia vaihtoehtoja kuin Helsinki tai Tampere.
 
 ### On myös töitä, jotka eivät saa hakijoita ja hakijoita, jotka eivät löydä töitä
 
